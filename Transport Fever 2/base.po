@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-08-21 12:33+0300\n"
+"PO-Revision-Date: 2024-08-21 16:07+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Dejssa\n"
 "Language: be_BY\n"
@@ -571,7 +571,7 @@ msgid "Available heightmaps:"
 msgstr "Даступныя мапы вышыні:"
 
 msgid "Average"
-msgstr "Сярэдзьне"
+msgstr "Сярэдне"
 
 msgid "Average emission reaching residential buildings: %1%"
 msgstr "Сярэдняе забруджваньне, якое дасягае жылых дамоў: %1%"
@@ -2175,7 +2175,7 @@ msgid "Industry"
 msgstr "Прамысловасьць"
 
 msgid "Industry closure"
-msgstr "Закрыцьцё прамысловай установы"
+msgstr "Закрыцьцё прамысловасьці"
 
 msgid "Industry spawn"
 msgstr "Узьнікненьне прамысловасьці"
@@ -2584,7 +2584,7 @@ msgid "Maximum time before departure"
 msgstr "Макс. час стаянкі перад ад'ездам"
 
 msgid "Mediocre"
-msgstr "Сярэдзьне"
+msgstr "Сярэдне"
 
 msgid "Menu"
 msgstr "Мэню"
@@ -2671,7 +2671,7 @@ msgid "Module bulldozer"
 msgstr "Бульдозер модуляў"
 
 msgid "Money number format"
-msgstr "Фармат запішу грошай"
+msgstr "Фармат запісу грошай"
 
 msgid "Month"
 msgstr "Месяц"
@@ -3015,7 +3015,7 @@ msgid "Open vehicle store to buy vehicles"
 msgstr "Адкрыйце краму транспарту, абы купіць транспарт"
 
 msgid "Open vehicle window on purchase"
-msgstr "Адкрывае акно траспарту пры куплі"
+msgstr "Адкрываць акно траспарту пры куплі"
 
 msgid "OpenGL"
 msgstr "OpenGL"
@@ -4727,7 +4727,7 @@ msgid "VSync"
 msgstr "Верт. Сінхранізацыя"
 
 msgid "Vacant"
-msgstr "Ваольны"
+msgstr "Вольны"
 
 msgid "Value"
 msgstr "Вартасьць"
@@ -4969,7 +4969,7 @@ msgstr "Цяжка"
 
 msgctxt "difficulty"
 msgid "Medium"
-msgstr "Сярэдзьне"
+msgstr "Сярэдне"
 
 msgctxt "difficulty"
 msgid "Very hard"
@@ -5052,7 +5052,7 @@ msgstr "Вялі́кі"
 
 msgctxt "map-size"
 msgid "Medium"
-msgstr "Сярэдзьні"
+msgstr "Сярэдні"
 
 msgctxt "map-size"
 msgid "Megalomaniac"
@@ -5283,7 +5283,7 @@ msgstr "Высокі"
 
 msgctxt "slope"
 msgid "Medium"
-msgstr "Сярэдзьні"
+msgstr "Сярэдні"
 
 msgctxt "speed-unit"
 msgid "km/h"
@@ -5338,7 +5338,7 @@ msgstr "Вялікі"
 
 msgctxt "town-size"
 msgid "Medium"
-msgstr "Сярэдзьні"
+msgstr "Сярэдні"
 
 msgctxt "town-size"
 msgid "Small"
@@ -5376,7 +5376,7 @@ msgstr "Сярэдне"
 
 msgctxt "value"
 msgid "Very high"
-msgstr "Завысокая"
+msgstr "Завысока"
 
 msgctxt "value"
 msgid "Very low"

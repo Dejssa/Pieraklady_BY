@@ -19,5 +19,5 @@
 
 #### Transport Fever 2
 
-- Base (~40%)
+- Base (100%)
 - Res (0%)

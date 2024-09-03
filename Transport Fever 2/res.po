@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-08-03 13:28+0300\n"
+"PO-Revision-Date: 2024-08-21 21:27+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: pl\n"
@@ -16,28 +16,28 @@ msgstr ""
 "X-Generator: Poedit 3.4.4\n"
 
 msgid " (with catenary)"
-msgstr " (z siecią trakcyjną)"
+msgstr "(з кантактнай сеткай)"
 
 msgid " stations left"
-msgstr " pozostałe stacje"
+msgstr " засталося станцый"
 
 msgid " with catenary"
-msgstr " Trakcyjne"
+msgstr " з кантактнай сеткай"
 
 msgid "${value}"
 msgstr "${value}"
 
 msgid "${value} m"
-msgstr "${value} mln"
+msgstr "${value} млн"
 
 msgid "%s m"
-msgstr "%s m"
+msgstr "%s м"
 
 msgid "(Hold) Force paint"
-msgstr "(Przytrzymaj) Wymuszenie malowania"
+msgstr "(Трымаць) Прымусовае маляваньне"
 
 msgid "(Hold) Precision mode"
-msgstr "(Przytrzymaj) Tryb precyzyjny"
+msgstr "(Трымаць) Рэжым дакладнасьці"
 
 msgid "0"
 msgstr "0"
@@ -49,19 +49,19 @@ msgid "1"
 msgstr "1"
 
 msgid "1 m"
-msgstr "1 mln"
+msgstr "1 млн"
 
 msgid "100 m x 50 m platform."
-msgstr "Przystań 100 x 50 m."
+msgstr "Прыстань 100 x 50 м."
 
 msgid "100%"
 msgstr "100%"
 
 msgid "10m"
-msgstr "10 m"
+msgstr "10 м"
 
 msgid "120m"
-msgstr "120 m"
+msgstr "120 м"
 
 msgid "125%"
 msgstr "125%"
@@ -70,7 +70,7 @@ msgid "150%"
 msgstr "150%"
 
 msgid "160m"
-msgstr "160 m"
+msgstr "160 м"
 
 msgid "175%"
 msgstr "175%"
@@ -79,19 +79,19 @@ msgid "2"
 msgstr "2"
 
 msgid "2 cargo types"
-msgstr "2 typy towarów"
+msgstr "2 тыпаў тавараў"
 
 msgid "2 m"
-msgstr "2 mln"
+msgstr "2 млн"
 
 msgid "200%"
 msgstr "200%"
 
 msgid "20m"
-msgstr "20 m"
+msgstr "20 м"
 
 msgid "240m"
-msgstr "240 m"
+msgstr "240 м"
 
 msgid "25%"
 msgstr "25%"
@@ -100,13 +100,13 @@ msgid "3"
 msgstr "3"
 
 msgid "3 m"
-msgstr "3 mln"
+msgstr "3 млн"
 
 msgid "30m"
-msgstr "30 m"
+msgstr "30 м"
 
 msgid "320m"
-msgstr "320 m"
+msgstr "320 м"
 
 msgid "4"
 msgstr "4"
@@ -118,7 +118,7 @@ msgid "5"
 msgstr "5"
 
 msgid "50 m x 50 m platform."
-msgstr "Przystań 50 x 50 m."
+msgstr "Прыстань 50 x 50 м."
 
 msgid "50%"
 msgstr "50%"
@@ -136,43 +136,43 @@ msgid "8"
 msgstr "8"
 
 msgid "80m"
-msgstr "80 m"
+msgstr "80 м"
 
 msgid "A bench."
-msgstr "Zwykła ławka."
+msgstr "Лава."
 
 msgid "A lamp."
-msgstr "Zwykła lampa."
+msgstr "Лямпа."
 
 msgid "A platform for passengers."
-msgstr "Peron dla pasażerów."
+msgstr "Пасажырская плятформа."
 
 msgid "A platform with underground connection for passengers."
-msgstr "Peron pasażerski z dojściem podziemnym."
+msgstr "Пасажырская плятформа з тунэлем."
 
 msgid "A small ramp to connect to the street."
-msgstr "Mała rampa umożliwiająca połączenie z ulicą."
+msgstr "Невялікі пандус для спалучэньня з вуліцай."
 
 msgid "A wooden fence."
-msgstr "Drewniany płot."
+msgstr "Драўляны плот."
 
 msgid "Acacia"
-msgstr "Akacja"
+msgstr "Акацыя"
 
 msgid "Accept"
-msgstr "Zaakceptuj"
+msgstr "Прыняць"
 
 msgid "Actions"
-msgstr "Działania"
+msgstr "Дзеяньні"
 
 msgid "Add"
-msgstr "Dodaj"
+msgstr "Дадаць"
 
 msgid "Add Station"
-msgstr "Dodaj stację"
+msgstr "Дадаць станцыю"
 
 msgid "Add station"
-msgstr "Dodaj stację"
+msgstr "Дадаць станцыю"
 
 msgid ""
 "Adds a second runway to the airport, which allows building a second taxiway."
@@ -187,10 +187,10 @@ msgstr ""
 "większej liczby budynków."
 
 msgid "Administration"
-msgstr "Administracja"
+msgstr "Адміністрацыя"
 
 msgid "Airfield"
-msgstr "Lądowisko"
+msgstr "Лётная пляцоўка"
 
 msgid "Airfield grass runway with a speed limit of %2%."
 msgstr "Trawiasty pas startowy z ograniczeniem prędkości do %2%."
@@ -231,19 +231,19 @@ msgstr ""
 "pasażerskich."
 
 msgid "Alcohol"
-msgstr "Alkohol"
+msgstr "Алкаголь"
 
 msgid "All"
-msgstr "Wszystkie"
+msgstr "Усё"
 
 msgid "American"
-msgstr "Amerykańskie"
+msgstr "Амэрыканскі"
 
 msgid "Apply"
-msgstr "Zastosuj"
+msgstr "Ужыць"
 
 msgid "Apply tool"
-msgstr "Zastosuj narzędzie"
+msgstr "Ужыць прыладу"
 
 msgid "Approach lights"
 msgstr "Światła podejścia"
@@ -252,61 +252,61 @@ msgid "Art"
 msgstr "Grafika"
 
 msgid "Asian"
-msgstr "Azjatyckie"
+msgstr "Азіяцкі"
 
 msgid "Asian Locomotive description text"
 msgstr "Opis azjatyckiej lokomotywy"
 
 msgid "Asphalt"
-msgstr "Asfalt"
+msgstr "Асфальт"
 
 msgid "Asphalt 01"
-msgstr "Asfalt 01"
+msgstr "Асфальт 01"
 
 msgid "Asphalt 02"
-msgstr "Asfalt 02"
+msgstr "Асфальт 02"
 
 msgid "Asphalt 03"
-msgstr "Asfalt 03"
+msgstr "Асфальт 03"
 
 msgid "Asphalt 04"
-msgstr "Asfalt 04"
+msgstr "Асфальт 04"
 
 msgid "Asphalt 05"
-msgstr "Asfalt 05"
+msgstr "Асфальт 05"
 
 msgid "Asset"
-msgstr "Element"
+msgstr "Элементаў"
 
 msgid "Asset builder"
-msgstr "Kreator elementów"
+msgstr "Стваральнік элементаў"
 
 msgid "Auto upgrade"
-msgstr "Auto ulepszenie"
+msgstr "Аўта паляпшэньне"
 
 msgid "Azalea"
-msgstr "Azalia"
+msgstr "Азалія"
 
 msgid "Back"
-msgstr "Wstecz"
+msgstr "Назад"
 
 msgid "Ballast"
-msgstr "Szuter"
+msgstr "Жвір"
 
 msgid "Banana plant"
-msgstr "Banan"
+msgstr "Банан"
 
 msgid "Bear"
-msgstr "Niedźwiedź"
+msgstr "Мядзьведзь"
 
 msgid "Bench"
-msgstr "Ławka"
+msgstr "Лава"
 
 msgid "Bend"
-msgstr "Zakręt"
+msgstr "Паварот"
 
 msgid "Big"
-msgstr "Duże"
+msgstr "Дужы"
 
 msgid "Bristlecone pine"
 msgstr "Sosna długowieczna"
@@ -315,7 +315,7 @@ msgid "Broom snakeweed"
 msgstr "Gutierrezia sarothrae"
 
 msgid "Build"
-msgstr "Buduj"
+msgstr "Будаваць"
 
 msgid "Build a large dock"
 msgstr "Zbuduj duży dok"
@@ -324,7 +324,7 @@ msgid "Build a small dock"
 msgstr "Zbuduj mały dok"
 
 msgid "Build airports"
-msgstr "Buduj lotniska"
+msgstr "Будаваць лётнішча"
 
 msgid "Build harbors"
 msgstr "Buduj przystanie"
@@ -596,7 +596,7 @@ msgid "Color"
 msgstr "Колер"
 
 msgid "Commercial building"
-msgstr "Budynek komercyjny"
+msgstr "Гандлёвы будынак"
 
 msgid "Common hazel"
 msgstr "Leszczyna pospolita"
@@ -659,7 +659,7 @@ msgid "Cougar"
 msgstr "Puma"
 
 msgid "Country"
-msgstr "Wiejski"
+msgstr "Вясковы"
 
 msgid "Cracked rocks 1"
 msgstr "Popękane skały 1"
@@ -810,7 +810,7 @@ msgstr ""
 "Przeznaczony dla peronów pasażerskich dach o specjalnej konstrukcji."
 
 msgid "Deer"
-msgstr "Jeleń"
+msgstr "Алень"
 
 msgid "Default"
 msgstr "Domyślne"
@@ -825,7 +825,7 @@ msgid "Depot"
 msgstr "Zajezdnia"
 
 msgid "Desert"
-msgstr "Pustynia"
+msgstr "Пустэча"
 
 msgid "Desert (assets only)"
 msgstr "Pustynia (tylko elementy)"
@@ -840,7 +840,7 @@ msgid "Determines the approach and takeoff direction of the runway."
 msgstr "Wskazuje kierunek lądowania i startu na pasie startowym."
 
 msgid "Difficulty"
-msgstr "Poziom trudności"
+msgstr "Складанасьць"
 
 msgid "Digital Distribution Account Manager"
 msgstr "Menedżer ds. kont dystrybucji cyfrowej"
@@ -2190,7 +2190,7 @@ msgid "Large landing"
 msgstr "Duży pomost"
 
 msgid "Large main building"
-msgstr "Duży budynek główny"
+msgstr "Вялікі галоўны будынак"
 
 msgid ""
 "Large main building with street access for cargo stations. Provides capacity "
@@ -2270,13 +2270,13 @@ msgid "Lead programmer"
 msgstr "Główny programista"
 
 msgid "Left"
-msgstr "Lewo"
+msgstr "Лева"
 
 msgid "Lemon tree"
 msgstr "Drzewko cytrynowe"
 
 msgid "Length"
-msgstr "Długość"
+msgstr "Даўжыня"
 
 msgid "Limo"
 msgstr "Limuzyna"
@@ -2291,13 +2291,13 @@ msgid "Livestock"
 msgstr "Zwierzęta gospodarskie"
 
 msgid "Loan interest"
-msgstr "Oprocentowanie pożyczki"
+msgstr "Працэнты пазыкі"
 
 msgid "Localization"
 msgstr "Lokalizacja"
 
 msgid "Locate"
-msgstr "Zlokalizuj"
+msgstr "Знайсьці"
 
 msgid "Logs"
 msgstr "Калодзьдзе"
@@ -4666,16 +4666,16 @@ msgstr ""
 "Historia zapamięta tylko tych, którzy dadzą dziś temu posłuch!"
 
 msgid "MISSION_HIGHLANDS_INTRO1"
-msgstr "Szkocja!"
+msgstr "Шатляндыя!"
 
 msgid "MISSION_HIGHLANDS_INTRO2"
-msgstr "Kraina oświecenia!"
+msgstr "Край асьветы!"
 
 msgid "MISSION_HIGHLANDS_INTRO3"
-msgstr "Kraina postępu!"
+msgstr "Краіна поступу!"
 
 msgid "MISSION_HIGHLANDS_INTRO4"
-msgstr "Kraina nauki!"
+msgstr "Краіна навукі!"
 
 msgid "MISSION_HIGHLANDS_INTRO5"
 msgstr "Kraina przemysłu!"
@@ -13302,22 +13302,22 @@ msgstr ""
 "złamanego grosza do naszego projektu. A niech to!"
 
 msgid "MOD_LEGACY_VEHICLE_PACK_DESCRIPTION"
-msgstr "Oryginalne zasoby pojazdu."
+msgstr "Арыгінальны транспарт."
 
 msgid "MOD_LEGACY_VEHICLE_PACK_NAME"
-msgstr "Dziedziczne pojazdy"
+msgstr "Спадчынна транспарту"
 
 msgid "MOD_NO_COSTS_DESCRIPTION"
-msgstr "Wszystko jest bezpłatne."
+msgstr "Усё дарма."
 
 msgid "MOD_NO_COSTS_NAME"
-msgstr "Brak kosztów"
+msgstr "Брак кошту"
 
 msgid "MOD_SANDBOX_DESCRIPTION"
-msgstr "Zmień wszystko."
+msgstr "Зьмяняў усё."
 
 msgid "MOD_SANDBOX_NAME"
-msgstr "Tryb piaskownicy"
+msgstr "Рэжым пясочніцы"
 
 msgid "MOD_VEHICLES_NO_END_YEAR_DESCRIPTION"
 msgstr ""
@@ -13395,7 +13395,7 @@ msgid "Management"
 msgstr "Kierownictwo"
 
 msgid "Map size"
-msgstr "Rozmiar mapy"
+msgstr "Памер мапы"
 
 msgid "Marble"
 msgstr "Marmur"
@@ -13634,7 +13634,7 @@ msgid "Move cursor"
 msgstr "Przesuń kursor"
 
 msgid "Music"
-msgstr "Muzyka"
+msgstr "Музыка"
 
 msgid "NEWS_DESCRIPTION_1"
 msgstr ""
@@ -13699,16 +13699,16 @@ msgid "Navigable waters layer"
 msgstr "Warstwa wód żeglownych"
 
 msgid "Never"
-msgstr "Nigdy"
+msgstr "Ніколі"
 
 msgid "New Line"
-msgstr "Nowa linia"
+msgstr "Новая лінія"
 
 msgid "Next section"
 msgstr "Kolejna sekcja"
 
 msgid "No"
-msgstr "Nie"
+msgstr "Не"
 
 msgid "Noise barrier 10m"
 msgstr "Ekran akustyczny 10 m"
@@ -13720,7 +13720,7 @@ msgid "Noise barrier 60m"
 msgstr "Ekran akustyczny 60 m"
 
 msgid "None"
-msgstr "Brak"
+msgstr "Брак"
 
 msgid "Norwegian"
 msgstr "Norweskie"
@@ -13759,7 +13759,7 @@ msgid "Often"
 msgstr "Często"
 
 msgid "Oh, what's that?"
-msgstr "O, a co to?"
+msgstr "О, што гэта?"
 
 msgid "Oil"
 msgstr "Olej"
@@ -13786,7 +13786,7 @@ msgid "One-lane one-way street with a speed limit of %2%."
 msgstr "Jednopasmowa jednokierunkowa ulica z ograniczeniem prędkości do %2%."
 
 msgid "One-way"
-msgstr "Jeden kierunek"
+msgstr "Аднакірунковы"
 
 msgid "Overcrowded stations"
 msgstr "Przeludnione stacje"
@@ -13810,16 +13810,16 @@ msgid "Paint terrain"
 msgstr "Maluj teren"
 
 msgid "Palm"
-msgstr "Palma"
+msgstr "Пальма"
 
 msgid "Palmetto"
 msgstr "Palmiczka"
 
 msgid "Paper"
-msgstr "Papier"
+msgstr "Папер"
 
 msgid "Passenger"
-msgstr "Dla pasażerów"
+msgstr "Для пасажыраў"
 
 msgid "Passenger airfield"
 msgstr "Lądowisko pasażerskie"
@@ -13907,7 +13907,7 @@ msgid "Plastic"
 msgstr "Плястык"
 
 msgid "Platform for cargo."
-msgstr "Грузавы перон"
+msgstr "Грузавая плятформа."
 
 msgid "Platform for waiting cargo."
 msgstr "Peron przeładunkowy."
@@ -13991,7 +13991,7 @@ msgid "Relocate headquarter"
 msgstr "Przenieś siedzibę główną"
 
 msgid "Remove"
-msgstr "Usuń"
+msgstr "Выдаліць"
 
 msgid "Rename"
 msgstr "Zmień nazwę"
@@ -14009,7 +14009,7 @@ msgid "Ridges"
 msgstr "Grzbiety górskie"
 
 msgid "Right"
-msgstr "Prawo"
+msgstr "Права"
 
 msgid "River bed"
 msgstr "Koryto rzeki"
@@ -14021,7 +14021,7 @@ msgid "Roaring"
 msgstr "Ryk"
 
 msgid "Rock"
-msgstr "Kamień"
+msgstr "Камень"
 
 msgid "Rotate"
 msgstr "Obróć"
@@ -17549,7 +17549,7 @@ msgid "Welcome"
 msgstr "Witaj"
 
 msgid "Wheat"
-msgstr "Pszenica"
+msgstr "Пшаніца"
 
 msgid "When disabled, the industry will not require any cargo input"
 msgstr ""
@@ -17564,10 +17564,10 @@ msgid "Whiskey"
 msgstr "Whiskey"
 
 msgid "Wolf"
-msgstr "Wilk"
+msgstr "Воўк"
 
 msgid "Yes"
-msgstr "Tak"
+msgstr "Так"
 
 msgid "You didn't see anything..."
 msgstr "Przywidziało ci się…"
@@ -17580,19 +17580,19 @@ msgstr "st."
 
 msgctxt "difficulty"
 msgid "Easy"
-msgstr "Łatwa"
+msgstr "Лёгкі"
 
 msgctxt "difficulty"
 msgid "Hard"
-msgstr "Trudna"
+msgstr "Цяжкі"
 
 msgctxt "difficulty"
 msgid "Medium"
-msgstr "Średnio"
+msgstr "Сярэдні"
 
 msgctxt "difficulty"
 msgid "Very hard"
-msgstr "Bardzo trudny"
+msgstr "Зацяжкі"
 
 msgctxt "map-industry-density"
 msgid "Disabled"
@@ -17647,10 +17647,10 @@ msgid "Very high"
 msgstr "Bardzo dużo"
 
 msgid "meters"
-msgstr "m"
+msgstr "м"
 
 msgid "no"
-msgstr "nie"
+msgstr "не"
 
 msgid "not allowed to build or bulldoze here"
 msgstr "nie możesz tutaj niczego budować ani burzyć"
@@ -17659,10 +17659,10 @@ msgid "not allowed to do this right now"
 msgstr "obecnie niedozwolone"
 
 msgid "off"
-msgstr "wył."
+msgstr "выкл."
 
 msgid "on"
-msgstr "wł."
+msgstr "укл."
 
 msgid "stone acting as a stop"
 msgstr "kamień służący za przystanek"
@@ -17677,10 +17677,10 @@ msgid "unused"
 msgstr "nieużywane"
 
 msgid "up to 4 cargo types"
-msgstr "maks. 4 typy towarów"
+msgstr "макс. 4 тыпаў грузаў"
 
 msgid "up to 6 cargo types"
-msgstr "maks. 6 typów towarów"
+msgstr "макс. 6 тыпаў грузаў"
 
 msgid "yes"
-msgstr "tak"
+msgstr "так"
