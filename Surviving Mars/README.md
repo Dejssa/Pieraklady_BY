@@ -36,7 +36,20 @@
 
 ### Рэсурсы
 
+- Пункты Досьледу
+- Concrete - Бэтон
+- Food - Ежа
+- Water - Вада
+- Fuel - Паліва
+- Funding - Фінансаваньне
+- Мэталы - Мэталы
+- Rare Metals - Рэдкія мэталы
+- Polymers - Палімэры
+- Machine Parts - Часткі машын
+- Electronics - Электроніка
 - Waste Rock - Пустая парода
+- Black Cubes - Чорныя кубы
+- Mystery Resource - Таемнічы рэсурс
 
 ### Будынкі
 

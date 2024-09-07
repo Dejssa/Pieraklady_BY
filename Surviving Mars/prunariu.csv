@@ -1,6 +1,6 @@
 ID,Text,Translation,Old Text,Old Translation,Стан,Gender,Critical Warnings,Non-critical Warnings,Platform Warnings,Location,Context,Section,Actor,Voice Actor,Revision,Old Revision,Edit Distance
 14561,<trains>/<max_trains> <icon_Train>,<trains>/<max_trains> <icon_Train>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/ColonyControlCenter.lua(00063),,,,,1011091,,
-14562,Broken segments: <elements><right>,Пашкоджанныя адзінкі: <elements><right>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00155),,,,,1011115,,
+14562,Broken segments: <elements><right>,Пашкоджаныя адзінкі: <elements><right>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00155),,,,,1011115,,
 14375,<icon_Drone_red> ,<icon_Drone_red> ,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00164),,,,,1011042,,
 14563,"<resource(collected,total,res)>","<resource(collected,total,res)>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00174),,,,,1011115,,
 14564,<progress> %,<progress> %,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00181),,,,,1011115,,
@@ -94,58 +94,71 @@ Stan:  <on_off(IsFluidResourceEnabled(res))>",Файна,,,,,Trunk\Mars/Dlc/prun
 14427,Relocating,Пераязджае,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00162),,,,,1011042,,
 14428,"Taking the Train from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Traveling for <TravelTimeInHours> hours",,"Taking the Train from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Traveling for <TravelTimeInHours> hours","Едзе цягніком ад <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>  
+<right>Напрамак: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>  
+<right>Час падарожжа <TravelTimeInHours> г.","Taking the Train from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
 <right>Traveling for <TravelTimeInHours> hours","Jedzie pociągiem ze stacji <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Cel: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Podróżuje przez <TravelTimeInHours> h",,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00182),,,,,1011061,1011061,2
+<right>Podróżuje przez <TravelTimeInHours> h",Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00182),,,,,1011061,1011061,2
 14429,"Waiting for train at <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Traveling for <TravelTimeInHours> hours",,"Waiting for train at <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Traveling for <TravelTimeInHours> hours","Чакае цягнік на <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>  
+<right>Напрамак: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>  
+<right>Час падарожжа<TravelTimeInHours> г.","Waiting for train at <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
 <right>Traveling for <TravelTimeInHours> hours","Czeka na pociąg na stacji <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Cel: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Podróżuje przez <TravelTimeInHours> h",,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00183),,,,,1011042,1011042,2
+<right>Podróżuje przez <TravelTimeInHours> h",Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00183),,,,,1011042,1011042,2
 14430,"Taking the Train to <h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
 <right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Traveling for <TravelTimeInHours> hours",,"Taking the Train to <h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
+<right>Traveling for <TravelTimeInHours> hours","Едзе цягніком да <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>  
+<right>Напрамак: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>  
+<right>Час падарожжа <TravelTimeInHours> г.","Taking the Train to <h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
 <right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
 <right>Traveling for <TravelTimeInHours> hours","Jedzie pociągiem do stacji <h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
 <right>Cel: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Podróżuje przez <TravelTimeInHours> h",,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00184),,,,,1011061,1011061,2
+<right>Podróżuje przez <TravelTimeInHours> h",Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00184),,,,,1011061,1011061,2
 14431,"Traveling to a new home from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Destination <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Traveling for <TravelTimeInHours> hours",,"Traveling to a new home from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Traveling for <TravelTimeInHours> hours","Едзе да новага дому ад <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>  
+<right>Напрамак: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>  
+<right>Час падарожжа <TravelTimeInHours> г.","Traveling to a new home from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Destination <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
 <right>Traveling for <TravelTimeInHours> hours","Jedzie do nowego domu ze stacji <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
 <right>Cel: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
-<right>Podróżuje przez <TravelTimeInHours> h",,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00185),,,,,1011042,1011042,2
-14432,Large Station,Вялікая станцыя,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00020),BuildingTemplate StationBig display_name,,,,1011042,,
-14433,Large Stations,Вялікая станцыя,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00021),BuildingTemplate StationBig display_name_pl,,,,1011042,,
-14434,Stop points for Trains to board passengers and transfer resources.,"Przystanki dla pociągów, na których pasażerowie wsiadają lub wysiadają, a zasoby są ładowane lub rozładowywane.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00022),BuildingTemplate StationBig description,,,,1011042,,
-14435,Station,Станцыя,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00076),BuildingTemplate StationSmall display_name,,,,1011042,,
-14436,Stations,Станцыі,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00077),BuildingTemplate StationSmall display_name_pl,,,,1011042,,
-14437,Stop points for Trains to board passengers and transfer resources.,"Przystanki dla pociągów, na których pasażerowie wsiadają lub wysiadają, a zasoby są ładowane lub rozładowywane.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00078),BuildingTemplate StationSmall description,,,,1011042,,
-14438,Track,Траса,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00125),BuildingTemplate Track display_name,,,,1011042,,
-14439,Tracks,Трасы,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00126),BuildingTemplate Track display_name_pl,,,,1011042,,
-14440,Used by Trains to travel between Stations.,Wykorzystywany przez pociągi do podróżowania między stacjami.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00127),BuildingTemplate Track description,,,,1011042,,
-14441,Stop points for Trains to board passengers and transfer resources.,"Przystanki dla pociągów, na których pasażerowie wsiadają lub wysiadają, a zasoby są ładowane lub rozładowywane.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00005),Cargo StationSmall description,,,,1011042,,
-14442,Station,Станцыя,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00010),Cargo StationSmall name,,,,1011042,,
-14443,Stop points for Trains to board passengers and transfer resources.,"Przystanki dla pociągów, na których pasażerowie wsiadają lub wysiadają, a zasoby są ładowane lub rozładowywane.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00017),Cargo StationBig description,,,,1011042,,
-14444,Large Station,Вялікая станцыя,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00022),Cargo StationBig name,,,,1011042,,
-14445,Transport Tycoon,Транспартны магнат,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00005),CommanderProfilePreset Default TransportTycoon display_name,,,,1011042,,
+<right>Podróżuje przez <TravelTimeInHours> h",Файна,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00185),,,,,1011042,1011042,2
+14432,Large Station,Вялікая станцыя,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00020),BuildingTemplate StationBig display_name,,,,1011042,,
+14433,Large Stations,Вялікая станцыя,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00021),BuildingTemplate StationBig display_name_pl,,,,1011042,,
+14434,Stop points for Trains to board passengers and transfer resources.,Станцыі цягнікоў для перавозкі пасажыраў ці рэсурсы.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00022),BuildingTemplate StationBig description,,,,1011042,,
+14435,Station,Станцыя,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00076),BuildingTemplate StationSmall display_name,,,,1011042,,
+14436,Stations,Станцыі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00077),BuildingTemplate StationSmall display_name_pl,,,,1011042,,
+14437,Stop points for Trains to board passengers and transfer resources.,Станцыі цягнікоў для перавозкі пасажыраў ці рэсурсы.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00078),BuildingTemplate StationSmall description,,,,1011042,,
+14438,Track,Траса,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00125),BuildingTemplate Track display_name,,,,1011042,,
+14439,Tracks,Трасы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00126),BuildingTemplate Track display_name_pl,,,,1011042,,
+14440,Used by Trains to travel between Stations.,Ужываюцца цягнікамі для перавозак між станцыямі.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00127),BuildingTemplate Track description,,,,1011042,,
+14441,Stop points for Trains to board passengers and transfer resources.,Станцыі цягнікоў для перавозкі пасажыраў ці рэсурсы.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00005),Cargo StationSmall description,,,,1011042,,
+14442,Station,Станцыя,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00010),Cargo StationSmall name,,,,1011042,,
+14443,Stop points for Trains to board passengers and transfer resources.,Станцыі цягнікоў для перавозкі пасажыраў ці рэсурсы.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00017),Cargo StationBig description,,,,1011042,,
+14444,Large Station,Вялікая станцыя,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00022),Cargo StationBig name,,,,1011042,,
+14445,Transport Tycoon,Транспартны магнат,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00005),CommanderProfilePreset Default TransportTycoon display_name,,,,1011042,,
 14446,"- Tracks construction cost is halved
 - Bonus Prefabs: 2x Stations (small)
 - Bonus Tech: <em>Large Stations</em> (Unlocks Large Stations)","- Кошт будоўлі трас зьніжаны напалову
 - Прэміяльныя зборнікі: 2x станцыі (малыя)
-- Прэміяльная тэхналёгія: <em>Вялікая станцыя</em> (адкрывае вялікую станцыю)",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00006),CommanderProfilePreset Default TransportTycoon effect,,,,1011042,,
+- Прэміяльная тэхналёгія: <em>Вялікая станцыя</em> (адкрывае вялікую станцыю)",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00006),CommanderProfilePreset Default TransportTycoon effect,,,,1011042,,
 14447,"
 Trains on Mars are traveling between <em>Stations</em> connected by elevated <em>Tracks</em>. They can transport colonists to their workplace and back or help them get to their new residences.
 Resources are also transported by trains between stations, either crates from the station storage or fluids from nearby tanks.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Trains can be built at stations and asigned to connected tracks, more then one can travel on a track at the same time.",,"
+Trains can be built at stations and asigned to connected tracks, more then one can travel on a track at the same time.","Цягнікі на Марсе падарожнічаюць між <em>станцыямі</em>, якія злучаныя праз паднятыя <em>трасы</em>. Гэтыя транспартныя сродкі могуць перавозіць каляністаў да працы й назад або да новага дому.  
+Цягнікі таксама могуць перавозіць рэсурсы паміж станцыямі, якую забіраюць або ў скрынях са станцыйнага складу, або з бакаў побач.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Цягнікі можна будаваць на станцыях і прызначаць да трас, злучаных са станцыяй. На адной трасе можа курсіраваць больш за адзін цягнік.","
 Trains on Mars are traveling between <em>Stations</em> connected by elevated <em>Tracks</em>. They can transport colonists to their workplace and back or help them get to their new residences.
 Resources are also transported by trains between stations, either crates from the station storage or fluids from nearby tanks.
 
@@ -157,8 +170,8 @@ Pociągi mogą też przewozić surowce między stacjami, zabierane albo w skrzyn
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-Pociągi można budować na stacjach i przydzielać do torów połączonych ze stacją. Po jednym torze może kursować więcej niż jeden pociąg.",,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00012),,,,,1011042,1011042,6
-14448,<new_in('prunariu')>Train,<new_in('prunariu')>Цягнік,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00014),,,,,1011042,,
+Pociągi można budować na stacjach i przydzielać do torów połączonych ze stacją. Po jednym torze może kursować więcej niż jeden pociąg.",Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00012),,,,,1011042,1011042,6
+14448,<new_in('prunariu')>Train,<new_in('prunariu')>Цягнік,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00014),,,,,1011042,,
 14449,"
 The rail network can help expanding your colony facilitating access to remote resource deposits as any manned building can be built around <em>Stations</em> and accessed by the colonists via <em>Trains</em>.
 
@@ -166,7 +179,13 @@ The rail network can help expanding your colony facilitating access to remote re
 
 <em>Colonists</em> are using the <em>Trains</em> to travel to their workplace and back home or to new homes. While they find it very helpful, they don't particularly enjoy spending a lot of time to reach their destinations.
 
-Resources are transported by <em>Drones</em> to the <em>Station</em>'s storage area and loaded into <em>Trains</em> from there but also fluids like <em>Water</em> and <em>Oxygen</em> can be transported between <em>Stations</em> from/to nearby storages in tanks attacked to the <em>Trains</em>.",,"
+Resources are transported by <em>Drones</em> to the <em>Station</em>'s storage area and loaded into <em>Trains</em> from there but also fluids like <em>Water</em> and <em>Oxygen</em> can be transported between <em>Stations</em> from/to nearby storages in tanks attacked to the <em>Trains</em>.","Чыгунка можа дапамагчы ў пашырэньні калёніі, палягчаючы доступ да аддаленых радовішчаў рэсурсаў, бо вакол <em>станцый</em> можна будаваць любыя будынкі, якія патрабуюць працоўнай сілы, а каляністы могуць дабірацца да іх <em>цягнікамі</em>.
+
+<em>Станцыі</em> злучаюцца парамі праз <em>трасы</em>. На адной трасе можа ехаць у абодвух напрамках некалькі <em>цягнікоў</em> адначасова, перавозячы каляністаў ды рэсурсы.
+
+<em>Каляністы</em> выкарыстоўваюць <em>цягнікі</em> як сродак даезду да працу й назад або транспарт для пераезду да новага дому. Хоць яны лічаць цягнікі вельмі карыснымі, ім не падабаецца доўгі час знаходзіцца ў дарозе.
+
+Рэсурсы могуць дастаўляцца на склад на <em>станцыі</em> праз <em>дронаў</em> і загружацца ў <em>цягнік</em>. Таксама вадкасьці, такія як <em>вада</em> й <em>тлён</em>, могуць быць перавезены цягнікамі паміж <em>станцыямі</em>, у ваколіцах якіх знаходзяцца бакі.","
 The rail network can help expanding your colony facilitating access to remote resource deposits as any manned building can be built around <em>Stations</em> and accessed by the colonists via <em>Trains</em>.
 
 <em>Tracks</em> are build to connect pairs of <em>Stations</em> and multiple <em>Trains</em> can travel on one in both directions at once transporting colonists and resources.
@@ -180,64 +199,64 @@ Sieć kolejowa może pomóc w ekspansji kolonii, ułatwiając dostęp do odległ
 
 <em>Koloniści</em> wykorzystują <em>pociągi</em> jako środek dojazdu do pracy i z powrotem lub transport do nowych domów. Choć uważają pociągi za bardzo pomocne, nie przepadają za spędzaniem długiego czasu w podróży.
 
-Zasoby mogą być dostarczane do składu na <em>stacji</em> przez <em>drony</em> i ładowane do <em>pociągu</em>. Także płyny, takie jak <em>woda</em> i <em>tlen</em>, również mogą być przewożone przez <em>pociągi</em> między <em>stacjami</em>, w których pobliżu znajdują się odpowiednie zbiorniki.",,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00023),,,,,1011042,1011042,7
-14450,<new_in('prunariu')>Transportation by Trains,<new_in('prunariu')>Transport kolejowy,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00025),,,,,1011042,,
-14451,"No trains management, trains are free and added to tracks when those are built.","Pociągi nie wymagają zarządzania, są darmowe i dodawane do zbudowanych torów.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00006),GameRules EasyTrains description,,,,1011042,,
-14452,Simplified Trains,Uproszczone pociągi,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00007),GameRules EasyTrains display_name,,,,1011042,,
+Zasoby mogą być dostarczane do składu na <em>stacji</em> przez <em>drony</em> i ładowane do <em>pociągu</em>. Także płyny, takie jak <em>woda</em> i <em>tlen</em>, również mogą być przewożone przez <em>pociągi</em> między <em>stacjami</em>, w których pobliżu znajdują się odpowiednie zbiorniki.",Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00023),,,,,1011042,1011042,7
+14450,<new_in('prunariu')>Transportation by Trains,<new_in('prunariu')>Транспартаваньне цягнікамі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00025),,,,,1011042,,
+14451,"No trains management, trains are free and added to tracks when those are built.","Цягнікі не патрабуюць кіраваньня, яны дармовыя й дадаюцца да пабудаваных трас.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00006),GameRules EasyTrains description,,,,1011042,,
+14452,Simplified Trains,Спрошчаныя цягнікі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00007),GameRules EasyTrains display_name,,,,1011042,,
 14453,"<grey>""When I was a child, life was confusing and chaotic for me, and trains represented order.""
-<right>Sheldon Cooper</grey><left>","<grey>„Gdy byłem dzieckiem, życie było dla mnie mylące i chaotyczne, a pociągi reprezentowały porządek”.
-<right>Sheldon Cooper</grey><left>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00008),GameRules EasyTrains flavor,,,,1011042,,
-14454,"With trains as an alternative, colonists will travel shorter distances safely on their own","Mając pociągi jako alternatywę, koloniści będą przemierzać mniejsze odległości bezpiecznie na własną rękę.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00018),GameRules RestrictedFootWalk description,,,,1011042,,
-14455,Restricted Foot Walk,Ograniczone chodzenie na piechotę,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00019),GameRules RestrictedFootWalk display_name,,,,1011042,,
-14456,"<grey>""Not all those who wander are lost.""<newline><right>J.R.R. Tolkien</grey><left>","<grey>„Nie każdy błądzi, kto wędruje”.<newline><right>J.R.R. Tolkien</grey><left>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00020),GameRules RestrictedFootWalk flavor,,,,1011042,,
-14457,<count> tracks need repairs.,Tory wymagające naprawy: <count>.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/OnScreenNotificationPreset.lua(00011),OnScreenNotificationPreset BrokenTracks text,,,,1011042,,
-14458,Broken Tracks,Пашкоджанныя трасы,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/OnScreenNotificationPreset.lua(00012),OnScreenNotificationPreset BrokenTracks title,,,,1011042,,
+<right>Sheldon Cooper</grey><left>","<grey>«Калі я быў дзіцём, жыцьцё здавалася мне заблытаным і хаатычным, а цягнікі прадстаўлялі парадак».  
+<right>Шэлдан Купер</grey><left>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00008),GameRules EasyTrains flavor,,,,1011042,,
+14454,"With trains as an alternative, colonists will travel shorter distances safely on their own","Маючы цягнікі як альтэрнатыву, каляністы будуць пераадольваць меншыя адлегласьці бясьпечна самастойна.  ",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00018),GameRules RestrictedFootWalk description,,,,1011042,,
+14455,Restricted Foot Walk,Абмежаванае перамяшчэньне пешшу  ,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00019),GameRules RestrictedFootWalk display_name,,,,1011042,,
+14456,"<grey>""Not all those who wander are lost.""<newline><right>J.R.R. Tolkien</grey><left>","<grey>«Ня кожны, хто вандруе, заблукаў».<right>Дж. Р. Р. Толкін</grey><left>  ",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00020),GameRules RestrictedFootWalk flavor,,,,1011042,,
+14457,<count> tracks need repairs.,"Трасы, якія патрабуюць рамонту: <count>.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/OnScreenNotificationPreset.lua(00011),OnScreenNotificationPreset BrokenTracks text,,,,1011042,,
+14458,Broken Tracks,Пашкоджаныя трасы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/OnScreenNotificationPreset.lua(00012),OnScreenNotificationPreset BrokenTracks title,,,,1011042,,
 14459,"Increased productivity on farms out of dome ranges.
 
-<grey>Our scientists have found that we can better grow food away from the pollution and noise we generate in around our domes.</grey>","Zwiększona wydajność farm znajdujących się poza zasięgiem kopuł.
+<grey>Our scientists have found that we can better grow food away from the pollution and noise we generate in around our domes.</grey>","Павышаная прадукцыйнасьць фэрмаў, якія знаходзяцца па-за дасягальнасьцю купалаў.
 
-<grey>Nasi naukowcy odkryli, że produkcja żywności udaje się lepiej z dala od hałasu i zanieczyszczeń wytwarzanych przez kopuły.</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00005),TechPreset RemoteFarming description,,,,1011042,,
-14460,Remote Farming,Odległe rolnictwo,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00006),TechPreset RemoteFarming display_name,,,,1011061,,
+<grey>Нашы навукоўцы высьветлілі, што вытворчасьць ежы больш, калі гэта далёка ад шуму й забруджваньняў, што ствараюцца купаламі.</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00005),TechPreset RemoteFarming description,,,,1011042,,
+14460,Remote Farming,Аддаленыя фэрмы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00006),TechPreset RemoteFarming display_name,,,,1011061,,
 14461,"New Building: <em>Large Station</em> (<buildinginfo('StationBig')>) - A Station connecting four tracks.
 
-<grey>Time to allow our people to travel in different directions from the same station.</grey>","Nowy budynek – <em>duża stacja</em> (<buildinginfo('StationBig')>) - Stacja, do której można podłączyć cztery tory.
+<grey>Time to allow our people to travel in different directions from the same station.</grey>","Новы будынак — <em>Вялікая станцыя</em> (<buildinginfo('StationBig')>) — Станцыя, да якой можна падключыць чатыры трасы.
 
-<grey>Pora umożliwić mieszkańcom kolonii podróżowanie w różnych kierunkach z jednej stacji.</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00017),TechPreset BigStations description,,,,1011042,,
-14462,Large Stations,Вялікія станцыі,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00018),TechPreset BigStations display_name,,,,1011042,,
+<grey>Час даць жыхарам калёніі магчымасьць падарожнічаць у розных кірунках з адной станцыі.</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00017),TechPreset BigStations description,,,,1011042,,
+14462,Large Stations,Вялікія станцыі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00018),TechPreset BigStations display_name,,,,1011042,,
 14463,"Trains travel faster.
 
-<grey>Using more advanced electromagnetism we can achieve higher speed on our tracks.</grey>","Pociągi jeżdżą szybciej.
+<grey>Using more advanced electromagnetism we can achieve higher speed on our tracks.</grey>","Цягнікі едуць шыбчэй.
 
-<grey>Dzięki stosowaniu bardziej zaawansowanych technologii opartych na elektromagnetyzmie możemy zwiększyć szybkość poruszania się po torach.</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00031),TechPreset FasterTrains description,,,,1011042,,
-14464,Faster Trains,Шыбкія цягнікі,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00032),TechPreset FasterTrains display_name,,,,1011042,,
+<grey>Дзякуючы выкарыстаньню больш прасунутых тэхналёгіяў, заснаваных на электрамагнетызьме, мы можам павялічыць хуткасьць руху па трасам.</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00031),TechPreset FasterTrains description,,,,1011042,,
+14464,Faster Trains,Хуткія цягнікі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00032),TechPreset FasterTrains display_name,,,,1011042,,
 14465,"Allows building transport infrastructure in the Underground.
 
-<grey>We should truly benefit from Trains in the underground labyrinth.</grey>","Umożliwia budowę infrastruktury transportowej w podziemiu.
+<grey>We should truly benefit from Trains in the underground labyrinth.</grey>","Дазваляе будаваць транспартную інфраструктуру ў пад зямлёю.
 
-<grey>W podziemnym labiryncie pociągi mogą być szczególnie przydatne.</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00044),TechPreset UndergroundTrains description,,,,1011042,,
-14466,Underground Trains,Podziemne pociągi,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00045),TechPreset UndergroundTrains display_name,,,,1011042,,
+<grey>У падземным лабірынце цягнікі могуць быць асабліва карыснымі.</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00044),TechPreset UndergroundTrains description,,,,1011042,,
+14466,Underground Trains,Падземныя цягнікі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00045),TechPreset UndergroundTrains display_name,,,,1011042,,
 14467,"Tracks are easier to repair and trains are safer for the passengers.
 
-<grey>Mars is a harsh place full of dangers for the ones traveling on the surface. We were able to improve the safety systems on our trains, perform better at very low temperatures and drones are better prepared to handle emergencies.</grey>","Naprawa torów jest łatwiejsza, a pociągi są bezpieczniejsze dla pasażerów.
+<grey>Mars is a harsh place full of dangers for the ones traveling on the surface. We were able to improve the safety systems on our trains, perform better at very low temperatures and drones are better prepared to handle emergencies.</grey>","Рамонт трас становіцца лягчэйшым, а цягнікі бяспечнейшымі для пасажыраў.
 
-<grey>Mars jest surowym miejscem pełnym niebezpieczeństw dla ludzi podróżujących po jego powierzchni. Udało się nam ulepszyć systemy bezpieczeństwa w naszych pociągach, które działają teraz skuteczniej w bardzo niskich temperaturach. Drony są lepiej przygotowane do radzenia sobie z awariami.</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00055),TechPreset SafeTransport description,,,,1011042,,
-14468,Safe Transport,Bezpieczny transport,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00056),TechPreset SafeTransport display_name,,,,1011042,,
+<grey>Марс — гэта суровае мейсца, поўнае небясьпекаў для людзей, якія падарожнічаюць па яго паверхні. Нам удалося палепшыць сыстэмы бясьпекі ў нашых цягніках, якія цяпер дзейнічаюць больш эфэктыўна пры вельмі нізкіх тэмпэратурах. Дроны лепш падрыхтаваныя да барацьбы з паломкамі.</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00055),TechPreset SafeTransport description,,,,1011042,,
+14468,Safe Transport,Бясьпечны транспарт,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00056),TechPreset SafeTransport display_name,,,,1011042,,
 14469,"Colonists no longer take comfort penalty while traveling.
 
 <grey>We can make the travel more comfortable but our colonists still won't like waiting too long for the trains.</grey>","Каляністы ў дарозе больш не кутуюць з-за невыгоды.
 
-<grey>Możemy sprawić, by podróżowało się wygodniej, ale nasi koloniści wciąż nie lubią zbyt długiego czekania na pociąg.</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00066),TechPreset LuxuriousTrains description,,,,1011061,,
-14470,Luxurious Trains,Раскошныя цягнікі,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00067),TechPreset LuxuriousTrains display_name,,,,1011042,,
+<grey>Мы можам зрабіць падарожжы больш камфортнымі, але нашым каляністам усё адно не падабаецца занадта доўга чакаць цягнік.</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00066),TechPreset LuxuriousTrains description,,,,1011061,,
+14470,Luxurious Trains,Раскошныя цягнікі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00067),TechPreset LuxuriousTrains display_name,,,,1011042,,
 14471,"Increases sanity of colonists traveling through green areas.
 
-<grey>What can be more reassuring we are heading in the right direction than traveling through the forests of Mars?</grey>","Zdrowie psychiczne kolonistów podróżujących przez tereny zielone wzrasta.
+<grey>What can be more reassuring we are heading in the right direction than traveling through the forests of Mars?</grey>","Разважлівасьць каляністаў, якія падарожнічаюць праз зялёныя зоны, паляпшаецца.
 
-<grey>Czy może być coś bardziej uspokajającego niż jazda we właściwym kierunku przez lasy Marsa?</grey>",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00077),TechPreset GreenView description,,,,1011061,,
-14472,Green View,Zielone pejzaże,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00078),TechPreset GreenView display_name,,,,1011042,,
-14553,Manage what resources can be stored and how they are transported by the Trains.,"Ustalanie, które zasoby mogą być składowane i w jaki sposób są one przewożone przez pociągi.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00014),XTemplate customStation RolloverText,,,,1011061,,
-14554,Depot management,Zarządzanie składami,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00015),XTemplate customStation RolloverTitle,,,,1011061,,
-14555,<left_click> Toggle,<left_click> Włącz/wyłącz,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00016),XTemplate customStation RolloverHint,,,,1011061,,
-14556,<ButtonA> Toggle,<ButtonA> Włącz/wyłącz,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00017),XTemplate customStation RolloverHintGamepad,,,,1011061,,
+<grey>Ці можа быць нешта больш супакойлівым, ніж ехаць у правільным кірунку празь лясы Марсу?</grey>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00077),TechPreset GreenView description,,,,1011061,,
+14472,Green View,Зялёныя відовішча,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00078),TechPreset GreenView display_name,,,,1011042,,
+14553,Manage what resources can be stored and how they are transported by the Trains.,"Кіраваньне рэсурсамі, якія можна захоўваць і як яны перавозяцца цягнікамі.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00014),XTemplate customStation RolloverText,,,,1011061,,
+14554,Depot management,Кіраваньне складам,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00015),XTemplate customStation RolloverTitle,,,,1011061,,
+14555,<left_click> Toggle,<left_click> Укл./Выкл.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00016),XTemplate customStation RolloverHint,,,,1011061,,
+14556,<ButtonA> Toggle,<ButtonA> Укл./Выкл.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00017),XTemplate customStation RolloverHintGamepad,,,,1011061,,
 14473,"Trains constructed here can be assigned to connected Tracks.
 
 <left>Construction cost:<right><resource(ConstructTrainCostMetal, ConstructResourceMetal)>
