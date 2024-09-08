@@ -289,56 +289,56 @@ Zasoby mogą być dostarczane do składu na <em>stacji</em> przez <em>drony</em>
 14490,<ButtonA> View,<ButtonA> Прагляд,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00027),XTemplate ipTrack RolloverHintGamepad,,,,1011042,,
 14491,Repair progress,Поступ рамонту,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00028),XTemplate ipTrack Title,,,,1011042,,
 14492,"Set Trains on this route to transport only colonists, resources or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>","Пазначце ці цягнікі на гэтай трасе будуць перавозіць толькі каляністаў, ці толькі рэсурсы, ці ўсё адразу.<newline><newline>Бягучы стан: <UITransportModeCurrentStatus><em>",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00126),XTemplate ipTrack RolloverText,,,,1011042,,
-14493,Colonists transported on this Track.,Koloniści przewożeni tym torem.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00191),XTemplate ipTrack RolloverText,,,,1011042,,
+14493,Colonists transported on this Track.,"Каляністы, што перавозяцца на гэтай трасе.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00191),XTemplate ipTrack RolloverText,,,,1011042,,
 14494,Passengers,Пасажыры,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00192),XTemplate ipTrack Title,,,,1011042,,
-14495,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,Czas podróży (średnia krocząca)<right><SpentTimeAverageInHours> h,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00206),XTemplate ipTrack Text,,,,1011042,,
-14496,Waiting another Train (today/y-day)<right><right><full_today>/<colonist(full_yesterday)>,Oczekiwanie na inny pociąg (dziś/wczoraj)<right><right><full_today>/<colonist(full_yesterday)>,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00210),XTemplate ipTrack Text,,,,1011042,,
-14497,Toggle between transporting crates or fluids starting with the next trip.,Przełącza między transportowaniem skrzyń lub płynów w następnym kursie.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00019),XTemplate ipTrain RolloverText,,,,1011042,,
+14495,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,Час падарожжа (рухомае сярэдняе) <right><SpentTimeAverageInHours> г.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00206),XTemplate ipTrack Text,,,,1011042,,
+14496,Waiting another Train (today/y-day)<right><right><full_today>/<colonist(full_yesterday)>,У чаканьні іншага цягніку (сёньня/учора)<right><right><full_today>/<colonist(full_yesterday)>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00210),XTemplate ipTrack Text,,,,1011042,,
+14497,Toggle between transporting crates or fluids starting with the next trip.,Пераключэньне між транспартуемымі скрынямі ці вадкасьцямі на наступным рэйсе.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00019),XTemplate ipTrain RolloverText,,,,1011042,,
 14498,Transport Fluids,Транспартыроўка вадкасьцей,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00020),XTemplate ipTrain RolloverTitle,,,,1011042,,
 14499,<left_click> Change the cargo type,<left_click> Зьмяніць тып грузу,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00021),XTemplate ipTrain RolloverHint,,,,1011061,,
 14500,<ButtonA> Change the cargo type,<ButtonA> Зьмяніць тып грузу,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00022),XTemplate ipTrain RolloverHintGamepad,,,,1011061,,
-14501,Send the Train back to a Station.,Odeślij pociąg z powrotem na stację.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00041),XTemplate ipTrain RolloverText,,,,1011061,,
+14501,Send the Train back to a Station.,Адаслаць цягнік назад да станцыі.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00041),XTemplate ipTrain RolloverText,,,,1011061,,
 14502,Stop the Train,Затрымаць цягнік,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00042),XTemplate ipTrain RolloverTitle,,,,1011061,,
 14503,<left_click> Stop at next Station,<left_click> Затрымаць на наступнай станцыі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00043),XTemplate ipTrain RolloverHint,,,,1011042,,
 14504,<ButtonA> Stop at next Station,<ButtonA> Затрымаць на наступнай станцыі,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00044),XTemplate ipTrain RolloverHintGamepad,,,,1011042,,
 14505,Current state or task of the Train.,Бягучы стан або задача цягніку.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00054),XTemplate ipTrain RolloverText,,,,1011042,,
-14506,Trip duration: <TripTimeInHours> hours,Czas podróży: <TripTimeInHours> h,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00065),XTemplate ipTrain Text,,,,1011042,,
-14507,Colonists transported by the Train.,Koloniści przewożeni przez pociąg.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00071),XTemplate ipTrain RolloverText,,,,1011042,,
+14506,Trip duration: <TripTimeInHours> hours,Час падарожжа: <TripTimeInHours> г.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00065),XTemplate ipTrain Text,,,,1011042,,
+14507,Colonists transported by the Train.,"Каляністы, што перавозяцца цягніком.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00071),XTemplate ipTrain RolloverText,,,,1011042,,
 14508,Passengers,Пасажыры,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00072),XTemplate ipTrain Title,,,,1011042,,
-14509,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,Czas podróży (średnia krocząca)<right><SpentTimeAverageInHours> h,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00086),XTemplate ipTrain Text,,,,1011042,,
-14511,Resources carried<right><resource(StoredAmount)>/<resource(max_shared_storage)>,Przewożone zasoby<right><resource(StoredAmount)>/<resource(max_shared_storage)>,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00098),XTemplate ipTrain Title,,,,1011042,,
-14510,Resources transported by this Train.,Zasoby przewożone przez ten pociąg.,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00128),XTemplate ipTrain RolloverText,,,,1011042,,
-14513,Resources carried<right><resource(StoredFluids)>/<resource(fluids_capacity)>,Przewożone zasoby<right><resource(StoredFluids)>/<resource(fluids_capacity)>,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00129),XTemplate ipTrain Title,,,,1011042,,
-14512,<resource(resource)>,<resource(resource)>,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00147),XTemplate ipTrain Text,,,,1011042,,
-14514,<left_click> Toggle<newline><right_click> Toggle all resources here,<left_click> Włącz/wyłącz<newline><right_click> Włącz/wyłącz wszystkie zasoby,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00010),XTemplate sectionDynamicFluidsRow RolloverHint,,,,1011042,,
-14515,<ButtonA> Toggle<newline><ButtonX> Toggle all resources here,<ButtonA> Włącz/wyłącz<newline><ButtonX> Włącz/wyłącz wszystkie zasoby,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00011),XTemplate sectionDynamicFluidsRow RolloverHintGamepad,,,,1011042,,
+14509,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,Час падарожжа (рухомае сярэдняе) <right><SpentTimeAverageInHours> г.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00086),XTemplate ipTrain Text,,,,1011042,,
+14511,Resources carried<right><resource(StoredAmount)>/<resource(max_shared_storage)>,Перавазімыя рэсурсы<right><resource(StoredAmount)>/<resource(max_shared_storage)>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00098),XTemplate ipTrain Title,,,,1011042,,
+14510,Resources transported by this Train.,Рэсурсы перавозяцца гэтым цягніком.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00128),XTemplate ipTrain RolloverText,,,,1011042,,
+14513,Resources carried<right><resource(StoredFluids)>/<resource(fluids_capacity)>,Перавазімыя рэсурсы<right><resource(StoredFluids)>/<resource(fluids_capacity)>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00129),XTemplate ipTrain Title,,,,1011042,,
+14512,<resource(resource)>,<resource(resource)>,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00147),XTemplate ipTrain Text,,,,1011042,,
+14514,<left_click> Toggle<newline><right_click> Toggle all resources here,<left_click> Укл./Выкл.<newline><right_click> Укл./Выкл. усе рэсурсы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00010),XTemplate sectionDynamicFluidsRow RolloverHint,,,,1011042,,
+14515,<ButtonA> Toggle<newline><ButtonX> Toggle all resources here,<ButtonA> Укл./Выкл.<newline><ButtonX> Укл./Выкл. усе рэсурсы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00011),XTemplate sectionDynamicFluidsRow RolloverHintGamepad,,,,1011042,,
 14516,"Set the transport policy from nearby tanks and storage towers:
 <icon_Transport_default> Balance via Trains.
 <icon_Transport_send> Send all by Train.
 <icon_Transport_accept> Don't send by Train.
-If both connected buildings are set to send out everything then they won't transport that resource.","Ustal strategię transportu dla pobliskich zbiorników i wież magazynowych:
-<icon_Transport_default> Zrównoważona.
-<icon_Transport_send> Wszystko pociągiem.
-<icon_Transport_accept> Bez wysyłania pociągiem.
-Jeśli oba połączone budynki zostaną ustawione na wysyłanie wszystkiego, to nie będą transportować danego zasobu.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00023),XTemplate sectionDynamicFluidsRow RolloverText,,,,1011061,,
+If both connected buildings are set to send out everything then they won't transport that resource.","Усталюйце стратэгію транспарціроўкі бліжэйшых рэзервуараў і вежаў для захоўвання::
+<icon_Transport_default> Збалянсаваная.
+<icon_Transport_send>Усё цягніком.
+<icon_Transport_accept> Не дасылаць цягніком.
+Калі абодва злучаныя будынкі наладаваны на адпраўку ўсяго, яны ня будуць транспартаваць дадзены рэсурс.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00023),XTemplate sectionDynamicFluidsRow RolloverText,,,,1011061,,
 14517,Transport policy,Транспартная стратэгія,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00024),XTemplate sectionDynamicFluidsRow RolloverTitle,,,,1011042,,
-14518,<left_click> Change transport policy<newline><right_click> Change policy for all fluids here,<left_click> Zmień strategię transportu<newline><right_click> Zmień miejscową strategię dla wszystkich płynów,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00025),XTemplate sectionDynamicFluidsRow RolloverHint,,,,1011042,,
-14519,<ButtonA> Change transport policy<newline><ButtonX> Change policy for all fluids here,<ButtonA> Zmień strategię transportu<newline><ButtonX> Zmień miejscową strategię dla wszystkich płynów,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00026),XTemplate sectionDynamicFluidsRow RolloverHintGamepad,,,,1011042,,
-14520,<left_click> Toggle<newline><right_click> Toggle all resources here,<left_click> Włącz/wyłącz<newline><right_click> Włącz/wyłącz wszystkie zasoby,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00010),XTemplate sectionDynamicResourceRow RolloverHint,,,,1011042,,
-14521,<ButtonA> Toggle<newline><ButtonX> Toggle all resources here,<ButtonA> Włącz/wyłącz<newline><ButtonX> Włącz/wyłącz wszystkie zasoby,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00011),XTemplate sectionDynamicResourceRow RolloverHintGamepad,,,,1011042,,
+14518,<left_click> Change transport policy<newline><right_click> Change policy for all fluids here,<left_click> Зьмяніць стратэгію транспарту<newline><right_click> Зьмяніць стратэгію для ўсіх вадкасьцяў тут,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00025),XTemplate sectionDynamicFluidsRow RolloverHint,,,,1011042,,
+14519,<ButtonA> Change transport policy<newline><ButtonX> Change policy for all fluids here,<ButtonA> Зьмяніць стратэгію транспарту<newline><ButtonX> Зьмяніць стратэгію для ўсіх вадкасьцяў тут,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00026),XTemplate sectionDynamicFluidsRow RolloverHintGamepad,,,,1011042,,
+14520,<left_click> Toggle<newline><right_click> Toggle all resources here,<left_click> Укл./Выкл.<newline><right_click> Укл./Выкл. усе рэсурсы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00010),XTemplate sectionDynamicResourceRow RolloverHint,,,,1011042,,
+14521,<ButtonA> Toggle<newline><ButtonX> Toggle all resources here,<ButtonA> Укл./Выкл.<newline><ButtonX> Укл./Выкл. усе рэсурсы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00011),XTemplate sectionDynamicResourceRow RolloverHintGamepad,,,,1011042,,
 14522,"Set the transport policy for this resource:
 <icon_Transport_default> Balance via Trains.
 <icon_Transport_send> Send all by Train.
 <icon_Transport_accept> Don't send by Train.
-If both connected buildings are set to send out everything then they won't transport that resource.","Ustal strategię transportu dla tego zasobu:
-<icon_Transport_default> Zrównoważona.
-<icon_Transport_send> Wszystko pociągiem.
-<icon_Transport_accept> Bez wysyłania pociągiem.
-Jeśli oba połączone budynki zostaną ustawione na wysyłanie wszystkiego, to nie będą transportować danego zasobu.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00023),XTemplate sectionDynamicResourceRow RolloverText,,,,1011061,,
+If both connected buildings are set to send out everything then they won't transport that resource.","Усталюй стратэгію транспарту для гэтага рэсурсу:
+<icon_Transport_default> Збалянсаваная.
+<icon_Transport_send> Усё цягніком.
+<icon_Transport_accept> Не дасылаць цягніком.
+Калі абодва злучаныя будынкі наладаваны на адпраўку ўсяго, то яны ня будуць транспартаваць дадзены рэсурс.",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00023),XTemplate sectionDynamicResourceRow RolloverText,,,,1011061,,
 14523,Transport policy,Транспартная стратэгія,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00024),XTemplate sectionDynamicResourceRow RolloverTitle,,,,1011042,,
-14524,<left_click> Change transport policy<newline><right_click> Change policy for all resources here,<left_click> Zmień strategię transportu<newline><right_click> Zmień miejscową strategię dla wszystkich zasobów,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00025),XTemplate sectionDynamicResourceRow RolloverHint,,,,1011042,,
-14525,<ButtonA> Change transport policy<newline><ButtonX> Change policy for all resources here,<ButtonA> Zmień strategię transportu<newline><ButtonX> Zmień miejscową strategię dla wszystkich zasobów,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00026),XTemplate sectionDynamicResourceRow RolloverHintGamepad,,,,1011042,,
-14558,Change to depot view for details and management.,"Przejdź na widok składów, aby zarządzać i poznać szczegółowe informacje.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00078),XTemplate sectionDynamicStorage RolloverText,,,,1011061,,
+14524,<left_click> Change transport policy<newline><right_click> Change policy for all resources here,<left_click> Зьмяніць стратэгію транспарту<newline><right_click> Зьмяніць стратэгію для ўсіх рэсурсаў тут,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00025),XTemplate sectionDynamicResourceRow RolloverHint,,,,1011042,,
+14525,<ButtonA> Change transport policy<newline><ButtonX> Change policy for all resources here,<ButtonA> Зьмяніць стратэгію транспарту<newline><ButtonX> Зьмяніць стратэгію для ўсіх рэсурсаў тут,,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00026),XTemplate sectionDynamicResourceRow RolloverHintGamepad,,,,1011042,,
+14558,Change to depot view for details and management.,"Перайсьці да акна складу, каб кіраваць і для падрабязнай інфармацыі.",,,,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00078),XTemplate sectionDynamicStorage RolloverText,,,,1011061,,
 14559,Stored resources,Захаваныя рэсурсы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00081),,,,,1011061,,
 14560,Stored resources,Захаваныя рэсурсы,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00085),XTemplate sectionDynamicStorage Title,,,,1011061,,
 14526,Stations connected by this Track. You can assign available Trains from here.,Станцыя падлучана той трасай. Тут можаш прызначаць даступныя цягнікі.,,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00009),XTemplate sectionTrackStations RolloverText,,,,1011042,,

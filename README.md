@@ -8,14 +8,14 @@
 
 ### Гульні і (можа калі небудзь) аплікацыі
 
-- Surviving Mars (11,6%)
+- Surviving Mars (35,79%)
 - Transport Fever 2 (20%)
 
 #### Surviving Mars
 
-- Базая гулья + Green Planet (35%)
+- Базая гулья + Green Planet (35,06%)
 - Below and Beyond (0%)
-- Martial Express (0%)
+- Martial Express (100%)
 
 #### Transport Fever 2
 
