@@ -145,8 +145,8 @@ Stan:  <on_off(IsFluidResourceEnabled(res))>",Файна,,,,,Trunk\Mars/Dlc/prun
 14446,"- Tracks construction cost is halved
 - Bonus Prefabs: 2x Stations (small)
 - Bonus Tech: <em>Large Stations</em> (Unlocks Large Stations)","- Кошт будоўлі трас зьніжаны напалову
-- Прэміяльныя зборнікі: 2x станцыі (малыя)
-- Прэміяльная тэхналёгія: <em>Вялікая станцыя</em> (адкрывае вялікую станцыю)",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00006),CommanderProfilePreset Default TransportTycoon effect,,,,1011042,,
+- Дадатковыя зборнікі: 2x станцыі (малыя)
+- Дадатковая тэхналёгія: <em>Вялікая станцыя</em> (адкрывае вялікую станцыю)",,,Файна,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00006),CommanderProfilePreset Default TransportTycoon effect,,,,1011042,,
 14447,"
 Trains on Mars are traveling between <em>Stations</em> connected by elevated <em>Tracks</em>. They can transport colonists to their workplace and back or help them get to their new residences.
 Resources are also transported by trains between stations, either crates from the station storage or fluids from nearby tanks.
