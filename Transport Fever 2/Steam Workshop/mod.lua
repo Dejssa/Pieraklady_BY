@@ -5,11 +5,11 @@ function data()
             severityAdd = "NONE",
             severityRemove = "NONE",
             name = _("Беларускі пераклад"),
-            description = "Аматарскі пераклад на беларускую мову (клясічная).Выкананы на 35 адсоткаў.\nДля ўжываньня ў наладках гульні беларускую мову.\nМагчымы памылкі.",
+            description = "Аматарскі пераклад на беларускую мову (клясічная).\nДля ўжываньня ў наладках гульні беларускую мову.\nМагчымы памылкі.",
             tags = { "Localization", "Belarusian" },
             authors = {
                 {
-                    name = "Alaksej Dejssa",
+                    name = "Dejssa",
                     role = "Author",
                 },
             },
