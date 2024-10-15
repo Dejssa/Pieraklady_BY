@@ -728,7 +728,7 @@ msgid "Bus lane tool"
 msgstr "Прылада аўтобуснай лініі"
 
 msgid "Bus/Tram station"
-msgstr "Прыпынак аўтобусаў/трамваяў"
+msgstr "Станцыя аўтобусаў/трамваяў"
 
 msgid "Bus/truck not compatible"
 msgstr "Аўтобус/грузавік не сумяшчальны"
@@ -920,7 +920,7 @@ msgid "Car owner"
 msgstr "Уладар машыны"
 
 msgid "Cargo"
-msgstr "Груз"
+msgstr "Грузавыя"
 
 msgid "Cargo filter is set"
 msgstr "Усталяваны фільтр грузаў"
@@ -1308,10 +1308,10 @@ msgid "Cost: "
 msgstr "Кошт: "
 
 msgid "Costs"
-msgstr "Кошты"
+msgstr "Кошт"
 
 msgid "Costs: %1%"
-msgstr "Кошты %1%"
+msgstr "Кошт %1%"
 
 msgid "Could not connect all alternative terminals"
 msgstr "Не атрымалася падлучыць усе альтэрнатыўныя тэрміналы"
@@ -1498,19 +1498,19 @@ msgid "Description"
 msgstr "Опіс"
 
 msgid "Destination"
-msgstr "Мейсца прызначэньня"
+msgstr "Накіраваны да"
 
 msgid "Destination: {stopName}"
-msgstr "Мейсца прызначэньня: {stopName}"
+msgstr "Накіраваны да: {stopName}"
 
 msgid "Destination: {stopName} via {viaName}"
-msgstr "Мейсца прызначэньня: {stopName}, праз: {viaName}"
+msgstr "Накіраваны да: {stopName}, праз: {viaName}"
 
 msgid "Destinations"
-msgstr "Мейсцы прызначэньня"
+msgstr "Накіраваньні"
 
 msgid "Destinations layer"
-msgstr "Слой мейсцаў прызначэньня"
+msgstr "Слой накіраваньняў"
 
 msgid "Details"
 msgstr "Падрабязнасьці"
@@ -3215,7 +3215,7 @@ msgid "Notifications"
 msgstr "Паведамленьні"
 
 msgid "Now demands "
-msgstr "Цяпер мае попыт на"
+msgstr "Цяпер мае попыт на "
 
 msgid "Now what?"
 msgstr "І што зараз?"
@@ -3362,7 +3362,7 @@ msgid "Overwrite savegame?"
 msgstr "Перапісаць захаваньне?"
 
 msgid "Own streets."
-msgstr "Уласьцівыя вуліцы."
+msgstr "Уласнасьць вуліцы."
 
 msgid "Ownership test failed"
 msgstr "Праверка на ўласнасьць не атрымалася"
@@ -3380,7 +3380,7 @@ msgid "Pan sensitivity (game camera)"
 msgstr "Чуйнасьць панарамы (гульнявая камэра)"
 
 msgid "Passenger"
-msgstr "Пасажыр"
+msgstr "Пасажырскія"
 
 msgid "Passenger stop can not be used by cargo vehicles"
 msgstr "Грузавы транспарт ня можа быць ужыты праз пасажырскі прыпынак"
@@ -4412,7 +4412,7 @@ msgid "Standard Edition"
 msgstr "Звычайнае выданьне"
 
 msgid "Start"
-msgstr "Прылада камэры: Пачаць запіс"
+msgstr "Пачаць"
 
 msgid "Start mission"
 msgstr "Пачніце місію"
@@ -4600,7 +4600,7 @@ msgid "Tags"
 msgstr "Тэгі"
 
 msgid "Target population"
-msgstr "Цэлевое насельніцтва"
+msgstr "Мэтавае насельніцтва"
 
 msgid "Task completed"
 msgstr "Заданьне выканана"
@@ -4902,7 +4902,7 @@ msgid "Track speed limits layer"
 msgstr "Слой абмежаваньня хуткасьці рэяк"
 
 msgid "Tracks"
-msgstr "Трасы"
+msgstr "Рэйкі"
 
 msgid "Tractive effort"
 msgstr "Цягавы высілак"
@@ -5107,16 +5107,16 @@ msgid "Upgrade"
 msgstr "Палепшыць"
 
 msgid "Upgrade streets with bus lanes."
-msgstr "Палепш вуліцы на аўтобусныя лініі."
+msgstr "Палепшыць вуліцы на аўтобусныя лініі."
 
 msgid "Upgrade streets with traffic lights."
-msgstr "Палепш вуліцы на сьвятлафоры."
+msgstr "Палепшыць вуліцы на сьвятлафоры."
 
 msgid "Upgrade streets with tram tracks."
-msgstr "Палепш вуліцы на трамвайныя рэйкі."
+msgstr "Палепшыць вуліцы на трамвайныя рэйкі."
 
 msgid "Upgrade tracks for higher speeds."
-msgstr "Палепш чыгунку на найбольшую хуткасьць."
+msgstr "Палепшыць чыгунку на найбольшую хуткасьць."
 
 msgid "Upgrade tracks with catenary."
 msgstr "Палепшыць рэйкі праз электрафікацыю."
@@ -6038,7 +6038,7 @@ msgstr "Станцыі"
 
 msgctxt "stats"
 msgid "Tracks"
-msgstr "Трасы"
+msgstr "Рэйкі"
 
 msgctxt "stop-name"
 msgid "{streetName}"
