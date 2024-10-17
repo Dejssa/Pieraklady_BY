@@ -3,20 +3,21 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-08-21 21:27+0300\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2024-10-17 14:40+0300\n"
+"Last-Translator: Alaksiej (Dejssa)\n"
 "Language-Team: none\n"
-"Language: pl\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Language: pl\n"
 "X-Source-Language: de_DE\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid " (with catenary)"
-msgstr "(з кантактнай сеткай)"
+msgstr " (з кантактнай сеткай)"
 
 msgid " stations left"
 msgstr " засталося станцый"
@@ -176,59 +177,51 @@ msgstr "Дадаць станцыю"
 
 msgid ""
 "Adds a second runway to the airport, which allows building a second taxiway."
-msgstr ""
-"Dodaje drugi pas startowy, który umożliwia wybudowanie drugiej drogi "
-"kołowania."
+msgstr "Дадае другую ЎПП, якая дазваляе пабудаваць другую дарожку."
 
 msgid ""
 "Adds a second taxiway to the airport, which allows to add more buildings."
 msgstr ""
-"Dodaje drugą drogę kołowania do lotniska, która umożliwia postawienie "
-"większej liczby budynków."
+"Дадае другую дарожку да лётнішча, што дазваляе ўзьвесьці больш будынкаў."
 
 msgid "Administration"
-msgstr "Адміністрацыя"
+msgstr "Кіраўніцтва"
 
 msgid "Airfield"
-msgstr "Лётная пляцоўка"
+msgstr "Пасадачная пляцоўка"
 
 msgid "Airfield grass runway with a speed limit of %2%."
-msgstr "Trawiasty pas startowy z ograniczeniem prędkości do %2%."
+msgstr "Травяная ЎПП з абмежаваньнем хуткасьці да %2%."
 
 msgid "Airfield grass taxiway with a speed limit of %2%."
-msgstr "Trawiasta droga kołowania z ograniczeniem prędkości do %2%."
+msgstr "Травяная дарожка з абмежаваньнем хуткасьці да %2%."
 
 msgid "Airfield runway"
-msgstr "Pas startowy lądowiska"
+msgstr "УПП лётнішча"
 
 msgid "Airfield taxiway"
-msgstr "Droga kołowania lądowiska"
+msgstr "Дарожка лётнішча"
 
 msgid "Airfield with one runway for small aircraft."
-msgstr "Lądowisko z jednym pasem startowym dla małych samolotów."
+msgstr "Лётнішча з адной УПП для малых самалётаў."
 
 msgid "Airfield with one runway for small cargo aircraft."
-msgstr "Lądowisko z jednym pasem startowym dla małych samolotów towarowych."
+msgstr "Лётнішча з адной УПП для малых грузавых самалётаў."
 
 msgid "Airfield with one runway for small passenger aircraft."
-msgstr "Lądowisko z jednym pasem startowym dla małych samolotów pasażerskich."
+msgstr "Лётнішча з адной УПП для малых пасажырскіх самалётаў."
 
 msgid "Airport"
-msgstr "Lotnisko"
+msgstr "Лётнішча"
 
 msgid "Airport with up to two runways for small and large aircraft."
-msgstr ""
-"Lotnisko z maksymalnie dwoma pasami startowymi dla małych i dużych samolotów."
+msgstr "Лётнішча з да дзьвюх УПП для малых і вялікіх самалётаў."
 
 msgid "Airport with up to two runways for small and large cargo aircraft."
-msgstr ""
-"Lotnisko z maksymalnie dwoma pasami startowymi dla małych i dużych samolotów "
-"towarowych."
+msgstr "Лётнішча з да дзьвюх УПП для малых і вялікіх грузавых самалётаў."
 
 msgid "Airport with up to two runways for small and large passenger aircraft."
-msgstr ""
-"Lotnisko z maksymalnie dwoma pasami startowymi dla małych i dużych samolotów "
-"pasażerskich."
+msgstr "Лётнішча з да дзьвюх УПП для малых і вялікіх пасажырскіх самалётаў."
 
 msgid "Alcohol"
 msgstr "Алкаголь"
@@ -246,16 +239,16 @@ msgid "Apply tool"
 msgstr "Ужыць прыладу"
 
 msgid "Approach lights"
-msgstr "Światła podejścia"
+msgstr "Агні падлёту"
 
 msgid "Art"
-msgstr "Grafika"
+msgstr "Мастацтва"
 
 msgid "Asian"
 msgstr "Азіяцкі"
 
 msgid "Asian Locomotive description text"
-msgstr "Opis azjatyckiej lokomotywy"
+msgstr "Апісаньне азіяцкага лёкаматыву"
 
 msgid "Asphalt"
 msgstr "Асфальт"
@@ -276,10 +269,10 @@ msgid "Asphalt 05"
 msgstr "Асфальт 05"
 
 msgid "Asset"
-msgstr "Элементаў"
+msgstr "Элемент"
 
 msgid "Asset builder"
-msgstr "Стваральнік элементаў"
+msgstr "Стваральнік элемэнтаў"
 
 msgid "Auto upgrade"
 msgstr "Аўта паляпшэньне"
@@ -306,267 +299,265 @@ msgid "Bend"
 msgstr "Паварот"
 
 msgid "Big"
-msgstr "Дужы"
+msgstr "Вялікі"
 
 msgid "Bristlecone pine"
-msgstr "Sosna długowieczna"
+msgstr "Сасна-даўгавечная"
 
 msgid "Broom snakeweed"
-msgstr "Gutierrezia sarothrae"
+msgstr "Гут'ерэцыя мятліковая"
 
 msgid "Build"
 msgstr "Будаваць"
 
 msgid "Build a large dock"
-msgstr "Zbuduj duży dok"
+msgstr "Будаваць вялікі док"
 
 msgid "Build a small dock"
-msgstr "Zbuduj mały dok"
+msgstr "Будаваць малы док"
 
 msgid "Build airports"
-msgstr "Будаваць лётнішча"
+msgstr "Будаваць лётнішчы"
 
 msgid "Build harbors"
-msgstr "Buduj przystanie"
+msgstr "Будаваць прычалы"
 
 msgid "Build headquarter"
-msgstr "Zbuduj siedzibę główną"
+msgstr "Будаваць штаб-квартэру"
 
 msgid "Build industries"
-msgstr "Buduj zakłady przemysłowe"
+msgstr "Будаваць прамысловыя ўстановы"
 
 msgid "Build ship waypoints"
-msgstr "Buduj wodne punkty kontrolne"
+msgstr "Будаваць карабельныя маршрутныя пункты"
 
 msgid "Build street constructions"
-msgstr "Buduj konstrukcje uliczne"
+msgstr "Будаваць вулічныя збудовы"
 
 msgid "Build street stations"
-msgstr "Buduj stacje drogowe"
+msgstr "Будаваць вулічныя станцыі"
 
 msgid "Build street waypoints"
-msgstr "Buduj uliczne punkty kontrolne"
+msgstr "Будаваць вулічныя маршрутныя пункты"
 
 msgid "Build streets"
-msgstr "Buduj ulice"
+msgstr "Будаваць вуліцы"
 
 msgid "Build towns"
-msgstr "Buduj miasta"
+msgstr "Будаваць месты"
 
 msgid "Build track constructions"
-msgstr "Buduj konstrukcje szynowe"
+msgstr "Будаваць чыгуначныя збудовы"
 
 msgid "Build track signals"
-msgstr "Buduj semafory"
+msgstr "Будаваць чыгуначныя сыгналы"
 
 msgid "Build track waypoints"
-msgstr "Buduj kolejowe punkty kontrolne"
+msgstr "Будаваць чыгуначныя маршрутныя пункты"
 
 msgid "Build tracks"
-msgstr "Buduj tory"
+msgstr "Будаваць чыгунку"
 
 msgid "Build train stations"
-msgstr "Buduj dworce kolejowe"
+msgstr "Будаваць чыгуначныя станцыі"
 
 msgid "Build your own Headquarter"
-msgstr "Zbuduj swoją siedzibę główną"
+msgstr "Збудаваць сваю штаб-квартэру"
 
 msgid "Building"
-msgstr "Budynek"
+msgstr "Будынак"
 
 msgid ""
 "Building for storage of many cargo items. Provides capacity for 75 cargo "
 "items."
 msgstr ""
-"Budynek do przechowywania wielu towarów. Zapewnia pojemność dla 75 sztuk "
-"towarów."
+"Будынак для захоўваньня вялікай колькасьці грузаў. Мае ёмістасьць на 75 "
+"адзінак."
 
 msgid ""
 "Building for storage of some cargo items. Provides capacity for 25 cargo "
 "items."
 msgstr ""
-"Budynek do przechowywania niektórych towarów. Zapewnia pojemność dla 25 "
-"sztuk towarów."
+"Будынак для захоўваньня малай колькасьці грузаў. Мае ёмістасьць на 25 "
+"адзінак."
 
 msgid "Building for waiting passengers. Provides capacity for 20 passengers."
 msgstr ""
-"Budynek dla pasażerów oczekujących. Zapewnia pojemność dla 20 pasażerów."
+"Будынак для чакаюшчых пасажыраў. Забясьпечвае ёмістасьць на 25 чалавек."
 
 msgid "Building for waiting passengers. Provides capacity for 60 passengers."
 msgstr ""
-"Budynek dla pasażerów oczekujących. Zapewnia pojemność dla 60 pasażerów."
+"Будынак для чакаюшчых пасажыраў. Забясьпечвае ёмістасьць на 60 чалавек."
 
 msgid "Bulldoze"
-msgstr "Wyburz"
+msgstr "Збурыць"
 
 msgid "Bulldozer"
-msgstr "Wyburz buldożerem"
+msgstr "Бульдозер"
 
 msgid "Buoy"
-msgstr "Boja"
+msgstr "Буй"
 
 msgid "Bus station"
-msgstr "Dworzec autobusowy"
+msgstr "Аўтобусны вакзал"
 
 msgid "Bus/tram station"
-msgstr "Stacja autobusowa/tramwajowa"
+msgstr "Станцыя аўтобусаў/трамваяў"
 
 msgid "Bus/tram stop"
-msgstr "Przystanek autobusowy/tramwajowy"
+msgstr "Прыпынак аўтобусаў/трамваяў"
 
 msgid "Buy"
-msgstr "Kup"
+msgstr "Купіць"
 
 msgid "Buy vehicles"
-msgstr "Kup pojazdy"
+msgstr "Купіць транспарт"
 
 msgid "CAMPAIGN_DISCLAIMER"
 msgstr ""
-"Kampania ma na celu obrazowe przedstawienie punktów zwrotnych w historii "
-"transportu. \n"
-"Opisywane są również mroczne rozdziały w dziejach świata, w przypadku "
-"których nie powinno się bagatelizować żadnych wydarzeń ani wyśmiewać "
-"ofiar. \n"
-"Nie wolno zapominać, że kwestie transportu często były i są związane z "
-"konfliktami, uciskiem, a czasem wielkim cierpieniem. \n"
-"W związku z tym osądy lub opinie przekazywane w poszczególnych misjach nie "
-"odzwierciedlają wartości wyznawanych przez twórców gry."
+"Кампанія мае на мэце вобразнае прадстаўленьне ключавых момантаў у гісторыі "
+"транспарту. \n"
+"Апісваюцца таксама змрочныя разьдзелы ў гісторыі сьвету, дзе нельга "
+"зьмяншаць значэньне падзей альбо зьдзекавацца з ахвяраў. \n"
+"Ня варта забываць, што пытаньні транспарту часта былі й застаюцца зьвязанымі "
+"з канфліктамі, прыгнётам і, часам, вялікімі пакутамі. \n"
+"У сувязі з гэтым ацэнкі ці меркаваньні, выказаныя ў асобных місіях, не "
+"адлюстроўваюць каштоўнасьцяў, якіх прытрымліваюцца стваральнікі гульні."
 
 msgid "COO"
-msgstr "Dyrektor operacyjny"
+msgstr "Апэрацыйны кіраўнік"
 
 msgid "CRM Project Manager"
-msgstr "Menedżer projektów CRM"
+msgstr "Распарадчык праэктаў УЎК"
 
 msgid "Cable Stayed Bridge"
-msgstr "Most wantowy"
+msgstr "Вантавы мост"
 
 msgid "Cactus"
-msgstr "Kaktus"
+msgstr "Кактус"
 
 msgid "Campaign design"
-msgstr "Projekt kampanii"
+msgstr "Праэкт кампаніі"
 
 msgid "Cancel"
-msgstr "Anuluj"
+msgstr "Скасаваць"
 
 msgid "Canyons"
-msgstr "Kaniony"
+msgstr "Каньёны"
 
 msgid "Cargo"
-msgstr "Dla transportu towarowego"
+msgstr "Грузавы"
 
 msgid "Cargo airfield"
-msgstr "Lądowisko towarowe"
+msgstr "Грузавая пасадачная пляцоўка"
 
 msgid "Cargo airport"
-msgstr "Lotnisko towarowe"
+msgstr "Грузавое лётнішча"
 
 msgid "Cargo buildings"
-msgstr "Budynki towarowe"
+msgstr "Грузавыя будынкі"
 
 msgid "Cargo harbor"
-msgstr "Przystań towarowa"
+msgstr "Грузавы прычал"
 
 msgid "Cargo layer"
-msgstr "Warstwa towarów"
+msgstr "Грузавы слой"
 
 msgid "Cargo platform"
-msgstr "Peron towarowy"
+msgstr "Грузавая плятформа"
 
 msgid "Cargo station"
-msgstr "Stacja przeładunkowa"
+msgstr "Грузавая станцыя"
 
 msgid "Cargo supply"
-msgstr "Dostawy towarów"
+msgstr "Грузавыя даставы"
 
 msgid "Cargo terminal"
-msgstr "Terminal towarowy"
+msgstr "Грузавы тэрмінал"
 
 msgid "Cargo terminal for airfields. Provides capacity for 20 cargo items."
 msgstr ""
-"Terminal towarowy przeznaczony dla lądowisk. Zapewnia pojemność dla 20 sztuk "
-"towaru."
+"Грузавы тэрмінал для пасадачных пляцовак. Забясьпечвае ёмістасьць для 20 "
+"адзінак грузаў."
 
 msgid "Cargo terminal for airports. Provides capacity for 40 cargo items."
 msgstr ""
-"Terminal towarowy przeznaczony dla lotnisk. Zapewnia pojemność dla 40 sztuk "
-"towarów."
+"Грузавы тэрмінал для лётнішч. Забясьпечвае ёмістасьць для 40 адзінак грузаў."
 
 msgid "Cargo terminus station"
-msgstr "Stacja końcowa transportu towarowego"
+msgstr "Канцовая грузавая станцыя"
 
 msgid "Catenary"
-msgstr "Trakcyjne"
+msgstr "Кантактная сетка"
 
 msgid "Cement bridge"
-msgstr "Most betonowy"
+msgstr "Бэтонны мост"
 
 msgid "Certification Assistant"
-msgstr "Asystent działu certyfikacji"
+msgstr "Памочнік адзьдзелу сэртыфікацыі"
 
 msgid "Champagne"
-msgstr "Szampan"
+msgstr "Шмпанскае"
 
 msgid "Change"
-msgstr "Zmień"
+msgstr "Зьмяніць"
 
 msgid "Change build mode"
-msgstr "Zmień tryb budowania"
+msgstr "Зьмяніць рэжым будовы"
 
 msgid "Change camera"
-msgstr "Zmień widok"
+msgstr "Зьмяніць камэру"
 
 msgid "Change height"
-msgstr "Zmień wysokość"
+msgstr "Зьмяніць вышыню"
 
 msgid "Change type"
-msgstr "Zmień typ"
+msgstr "Зьмяніць тып"
 
 msgid "Chapter I"
-msgstr "Rozdział I"
+msgstr "Разьдзел I"
 
 msgid "Chapter II"
-msgstr "Rozdział II"
+msgstr "Разьдзел II"
 
 msgid "Chapter III"
-msgstr "Rozdział III"
+msgstr "Разьдзел III"
 
 msgid "Chemical plant"
-msgstr "Zakład chemiczny"
+msgstr "Хімічны завод"
 
 msgid "Chinese fan palm"
-msgstr "Liwistona chińska"
+msgstr "Лівістана кітайская"
 
 msgid "Cholla cactus"
-msgstr "Opuncja"
+msgstr "Апунцыя"
 
 msgid "Churchill Arrow"
-msgstr "Strzała Churchilla"
+msgstr "Страла Чэрчыля"
 
 msgid "Cigars"
-msgstr "Цыгарэты"
+msgstr "Цыгары"
 
 msgid "Circular intersection."
-msgstr "Okrągłe skrzyżowanie."
+msgstr "Кальцавое скрыжаваньне."
 
 msgid "Clear"
-msgstr "Wyczyść"
+msgstr "Ачысьціць"
 
 msgid "Cliff Canyon 01"
-msgstr "Kanion z klifem 01"
+msgstr "Каньён са скалой 01"
 
 msgid "Cliff Canyon 02"
-msgstr "Kanion z klifem 02"
+msgstr "Каньён са скалой 02"
 
 msgid "Cliff Canyon 03"
-msgstr "Kanion z klifem 03"
+msgstr "Каньён са скалой 03"
 
 msgid "Cliff Canyon 04"
-msgstr "Kanion z klifem 04"
+msgstr "Каньён са скалой 04"
 
 msgid "Cliff Mesa 01"
-msgstr "Płaskowyż z klifem 01"
+msgstr "Плато з абрывам 01"
 
 msgid "Climate"
 msgstr "Клімат"
@@ -575,7 +566,7 @@ msgid "Close"
 msgstr "Закрыць"
 
 msgid "Cloverleaf interchange"
-msgstr "Węzeł drogowy koniczynka"
+msgstr "Канюшынны дарожны вузел"
 
 msgid "Coal"
 msgstr "Вугаль"
@@ -584,13 +575,13 @@ msgid "Coal mine"
 msgstr "Капальня вуглю"
 
 msgid "Coconut palm"
-msgstr "Palma kokosowa"
+msgstr "Кокосавая пальма"
 
 msgid "Coffee beans"
-msgstr "Зярняткі кавы"
+msgstr "Зерне кавы"
 
 msgid "Coffee fruits"
-msgstr "Owoce kawowca"
+msgstr "Плады кавоўніка"
 
 msgid "Color"
 msgstr "Колер"
@@ -599,582 +590,584 @@ msgid "Commercial building"
 msgstr "Гандлёвы будынак"
 
 msgid "Common hazel"
-msgstr "Leszczyna pospolita"
+msgstr "Ляшчына звычайная"
 
 msgid "Community Managers"
-msgstr "Menedżerowie ds. społeczności"
+msgstr "Распарадчыкі па суполнасьці"
 
 msgid "Community management"
-msgstr "Zarządzanie społecznością"
+msgstr "Кіраваньне супольнасьцю"
 
 msgid "Company charts"
-msgstr "Wykresy firmy"
+msgstr "Графікі кампаніі"
 
 msgid "Company finances"
-msgstr "Finanse firmy"
+msgstr "Каштарыс кампаніі"
 
 msgid "Company headquarters"
-msgstr "Siedziba główna firmy"
+msgstr "Штаб-кватэра кампаніі"
 
 msgid "Company logo"
-msgstr "Logo firmy"
+msgstr "Лягатып кампаніі"
 
 msgid "Compliance Analyst"
-msgstr "Analityk zgodności"
+msgstr "Аналітык адпаведнасьці"
 
 msgid "Compliance QA"
-msgstr "Kontrola jakości – zgodność"
+msgstr "Кантроль якасьці адпаведнасьці"
 
 msgid "Compliance QA Lead"
-msgstr "Kierownik ds. kontroli jakości – zgodność"
+msgstr "Кіраўнік кантролю якасьці адпаведнасьці"
 
 msgid "Confirm destruction"
-msgstr "Potwierdź zniszczenie"
+msgstr "Пацьвердзі зьнішчэньне"
 
 msgid "Construction material"
-msgstr "Materiał budowlany"
+msgstr "Будаўнічы матэрыял"
 
 msgid "Construction materials plant"
-msgstr "Fabryka materiałów budowlanych"
+msgstr "Завод будаўнічых матэрыялаў"
 
 msgid "Context help"
-msgstr "Pomoc kontekstowa"
+msgstr "Кантэкстная дапамога"
 
 msgid "Continue"
-msgstr "Kontynuuj"
+msgstr "Працягнуць"
 
 msgid "Contour lines layer"
-msgstr "Warstwa konturów"
+msgstr "Слой контураў"
 
 msgid "Contributors"
-msgstr "Współautorzy"
+msgstr "Суаўтары"
 
 msgid "Corn"
-msgstr "Kukurydza"
+msgstr "Кукуруза"
 
 msgid "Cosmocover"
-msgstr "Cosmocover"
+msgstr "Космаковэр"
 
 msgid "Cougar"
-msgstr "Puma"
+msgstr "Кугуар"
 
 msgid "Country"
 msgstr "Вясковы"
 
 msgid "Cracked rocks 1"
-msgstr "Popękane skały 1"
+msgstr "Парэпаныя скалы 1"
 
 msgid "Cracked rocks 2"
-msgstr "Popękane skały 2"
+msgstr "Парэпаныя скалы 2"
 
 msgid "Cracked rocks 3"
-msgstr "Popękane skały 3"
+msgstr "Парэпаныя скалы 3"
 
 msgid "Cracked rocks 4"
-msgstr "Popękane skały 4"
+msgstr "Парэпаныя скалы 4"
 
 msgid "Crane"
-msgstr "Żuraw"
+msgstr "Жораў"
 
 msgid "Cranes flock"
-msgstr "Stado żurawi"
+msgstr "Статак жураўлёў"
 
 msgid "Crude oil"
 msgstr "Сырая нафта"
 
 msgid "Curly palm"
-msgstr "Palma kencja"
+msgstr "Пальма кентыя"
 
 msgid "Custom one way country road"
-msgstr "Niestandardowa jednokierunkowa droga wiejska"
+msgstr "Незвычайнай аднакірунковая вясковая дарога"
 
 msgid "DLC_DELUXE_PACK_DESCRIPTION"
 msgstr ""
-"\"Deluxe Edition\" zawiera następujące elementy:\n"
-"- 3 ekskluzywne scenariusze w różnych rodzajach krajobrazów, które będą nie "
-"lada wyzwaniem dla sprawdzenia twoich umiejętności\n"
-"- 6 nowych i ekskluzywnych pojazdów historycznych do gry: Hong Kong Meridian "
-"Ferry, McDonnell Douglas DC-10-30, brytyjski pociąg dużych prędkości HST "
-"\"Inter-City 125\", Kenworth K100E, Citroën U55 Currus Cityrama oraz Toyama "
-"Chihou Railway 8000 Series Tram\n"
-"- 3 zaskakujące nowe zwierzęta dla trzech typów krajobrazu: wilk, puma i "
-"tropikalne ryby\n"
-"- 2 nowe ścieżki dźwiękowe z dwóch prequeli Train Fever i Transport Fever"
+"\"Раскошная выданьне\" зьмяшчае наступныя элемэнты:\n"
+"- 3 эксклюзыўныя сцэнары ў розных тыпах краявідаў, якія будуць сур'ёзным "
+"выклікам для праверкі тваіх здольнасьцяў\n"
+"- 6 новых і эксклюзыўных гістарычных транспартных сродкаў для гульні: паром "
+"Hong Kong Meridian, McDonnell Douglas DC-10-30, брытанскі хуткасны цягнік "
+"HST \"Inter-City 125\", Kenworth K100E, Citroën U55 Currus Cityrama і "
+"трамвай Toyama Chihou Railway 8000 Series\n"
+"- 3 нечаканыя новыя жывёлы для трох тыпаў краявідаў: воўк, пума й трапічныя "
+"рыбы\n"
+"- 2 новыя гукавыя дарожкі з двух папярэднікаў Train Fever і Transport Fever"
 
 msgid "DLC_DELUXE_PACK_NAME"
-msgstr "Deluxe content"
+msgstr "Зьмест Раскошнага выданьня"
 
 msgid "DLC_DESCRIPTION_1"
 msgstr ""
-"Bardzo dziękujemy za zakup gry Transport Fever 2 w wersji Deluxe Edition.\n"
-"Życzymy mnóstwa świetnej zabawy podczas rozgrywek z dodatkową zawartością."
+"Вялікі дзякуй за набыцьцё гульні Transport Fever 2 у Раскошным выданьні. \n"
+"Зычым Вам шмат захапляльных момантаў і выдатнага адпачынку з дадатковым "
+"зьместам!"
 
 msgid "DLC_DESCRIPTION_2"
 msgstr ""
-"Deluxe Edition zawiera:\n"
-"– 6 nowych pojazdów historycznych,\n"
-"– 3 stworzone ręcznie mapy,\n"
-"– 3 zaskakujące nowe zwierzęta,\n"
-"– 2 nowe ścieżki dźwiękowe dostępne w grze."
+"Раскошнае выданьне зьмяшчае:\n"
+"– 6 новых гістарычных транспартных сродкаў,\n"
+"– 3 створаныя ўручную мапы,\n"
+"– 3 нечаканыя новыя жывёлы,\n"
+"– 2 новыя гукавыя дарожкі, даступныя ў гульні."
 
 msgid "DLC_DESCRIPTION_3"
 msgstr ""
-"Zawartość z Deluxe Edition jest aktywowana automatycznie we wszystkich "
-"nowych rozgrywkach, choć niektóre elementy są dostępne tylko w konkretnych "
-"klimatach lub zestawach pojazdów.\n"
-"Rozgrywki na stworzonych ręcznie mapach można rozpocząć dzięki opcji „ZAGRAJ "
-"NA MAPIE” w menu gry swobodnej.\n"
-"Nowe ścieżki dźwiękowe można wybrać w ustawieniach dźwięku."
+"Зьмест з Раскошнага выданьня актывуецца аўтаматычна ва ўсіх новых гульнях, "
+"хоць некаторыя элемэнты даступныя толькі ў пэўных кліматычных умовах або "
+"наборах транспартных сродкаў. \n"
+"Гульні на створаных уручную мапах можна пачаць праз «ГУЛЯЦЬ НА МАПЕ» ў мэню "
+"вольнай гульні. \n"
+"Новыя гукавыя дарожкі можна выбраць у наладах гуку."
 
 msgid "DLC_DESCRIPTION_4"
 msgstr ""
-"Zawartość z Deluxe Edition można dodać do zapisanych wcześniej rozgrywek w "
-"dowolnym momencie.\n"
-"W tym celu przy uruchamianiu zapisanej gry trzeba włączyć modyfikację "
-"„Deluxe content” w zaawansowanych ustawieniach rozgrywki."
+"Зьмест з Раскошнага выданьня можна дадаць да захаваных раней гульняў у любы "
+"момант. \n"
+"Для гэтага пры запуску захаваньня трэба ўключыць мадыфікацыю «Раскошны "
+"зьмест» у пашыраных наладах гульні."
 
 msgid "DLC_DESCRIPTION_5"
 msgstr ""
-"Zawartość z Deluxe Edition jest aktywowana automatycznie we wszystkich "
-"rozgrywkach, choć niektóre elementy są dostępne tylko w konkretnych "
-"klimatach lub zestawach pojazdów.\n"
-"Rozgrywki na stworzonych ręcznie mapach można rozpocząć dzięki opcji „ZAGRAJ "
-"NA MAPIE” w menu gry swobodnej.\n"
-"Nowe ścieżki dźwiękowe można wybrać w ustawieniach dźwięku."
+"Зьмест з Раскошнага выданьня актывуецца аўтаматычна ва ўсіх гульнях, хоць "
+"некаторыя элемэнты даступныя толькі ў пэўных кліматычных умовах або наборах "
+"транспартных сродкаў. \n"
+"Гульні на створаных уручную мапах можна пачаць дзякуючы опцыі «ГУЛЯЦЬ НА "
+"МАПЕ» ў мэню вольнай гульні. \n"
+"Новыя гукавыя дарожкі можна выбраць у наладах гуку."
 
 msgid "DLC_PREORDER_PACK_DESCRIPTION"
 msgstr ""
-"Nadaj twojemu imperium samochodowemu więcej stylu dzięki ekskluzywnym 5 "
-"skinom:\n"
-"- Skin prototypu samolotu Lockheed Super Constellation\n"
-"- Kultowy skin atlantyckiego pociągu TGV Sud-Est\n"
-"- Amerykański autobus GM Fishbowl z hrabstwa Santa Clara\n"
-"- Alternatywny skin MAZ 103 o zmodernizowanym wyglądzie\n"
-"- Kolorowy skin Mercedes Benz eCitaro orpacowany według luksemburskiego "
-"modelu"
+"Надай сваёй аўтамабільнай імпэрыі больш стылю праз эксклюзыўныя 5 абліччаў:\n"
+"- Аблічча прататыпу самалёта Lockheed Super Constellation\n"
+"- Культавае аблічча атлянтычнага цягніка TGV Sud-Est\n"
+"- Амэрыканскі аўтобус GM Fishbowl з акругі Санта-Клара\n"
+"- Альтэрнатыўнае аблічча МАЗ 103 са зманадэрнізаваным выглядам\n"
+"- Каларытнае аблічча Mercedes Benz eCitaro, распрацаваны паводле "
+"люксэмбурскага мадэлю"
 
 msgid "DLC_PREORDER_PACK_NAME"
-msgstr "Early Supporter content"
+msgstr "Зьмест Раньняга Падтрымшчыка"
 
 msgid "DLC_TITLE"
-msgstr "Transport Fever 2: Deluxe Edition"
+msgstr "Transport Fever 2: Раскошнае выданьне"
 
 msgid "DLC_TITLE_1"
-msgstr "Bardzo dziękujemy!"
+msgstr "Шчыра дзякуем!"
 
 msgid "DLC_TITLE_2"
-msgstr "Co zawiera ta wersja?"
+msgstr "З чаго складаецца гэтая версія?"
 
 msgid "DLC_TITLE_3"
-msgstr "Jak skorzystać z tej zawartości w nowych rozgrywkach?"
+msgstr "Як скарыстацца гэтым зьместам ў новых гульнях?"
 
 msgid "DLC_TITLE_4"
-msgstr "Jak skorzystać z tej zawartości w zapisanych rozgrywkach?"
+msgstr "Як скарыстацца гэтым зьместам ў захаваньнях?"
 
 msgid "DLC_TITLE_5"
-msgstr "Jak skorzystać z tej zawartości?"
+msgstr "Як скарыстацца гэтым зьместам?"
 
 msgid "Danger signal left"
-msgstr "Sygnał ostrzegawczy po lewej"
+msgstr "Сыгнал небясьпекі па левай"
 
 msgid "Danger signal left double"
-msgstr "Podwójny sygnał ostrzegawczy po lewej"
+msgstr "Падвойны сыгнал небясьпекі па левай"
 
 msgid "Danger signal right"
-msgstr "Sygnał ostrzegawczy po prawej"
+msgstr "Сыгнал небясьпекі па правай"
 
 msgid "Danger signal right double"
-msgstr "Podwójny sygnał ostrzegawczy po prawej"
+msgstr "Падвойны сыгнал небясьпекі па правай"
 
 msgid "Data Engineer"
-msgstr "Inżynier danych"
+msgstr "Інжынэр дадзеных"
 
 msgid "Date palm"
-msgstr "Daktylowiec"
+msgstr "Фінікавая пальма"
 
 msgid "Decline"
-msgstr "Odrzuć"
+msgstr "Адхіліць"
 
 msgid ""
 "Decorative.\n"
 "Roof for passenger platforms."
 msgstr ""
-"Dekoracyjne.\n"
-"Dach przeznaczony dla peronów pasażerskich."
+"Упрыгожваньне.\n"
+"Дах для пасажырскіх плятформ."
 
 msgid ""
 "Decorative.\n"
 "Roof with a special design for passenger platforms."
 msgstr ""
-"Dekoracyjne.\n"
-"Przeznaczony dla peronów pasażerskich dach o specjalnej konstrukcji."
+"Упрыгожваньне.\n"
+"Дах з спэцыяльным праэктам для пасажырскіх плятформ."
 
 msgid "Deer"
 msgstr "Алень"
 
 msgid "Default"
-msgstr "Domyślne"
+msgstr "Звычайны"
 
 msgid "Delete Line"
-msgstr "Usuń linię"
+msgstr "Выдаліць лінію"
 
 msgid "Delete Station"
-msgstr "Usuń stację"
+msgstr "Выдаліць станцыю"
 
 msgid "Depot"
-msgstr "Zajezdnia"
+msgstr "Дэпо"
 
 msgid "Desert"
 msgstr "Пустэча"
 
 msgid "Desert (assets only)"
-msgstr "Pustynia (tylko elementy)"
+msgstr "Пустэча (толькі элемэнты)"
 
 msgid "Destinations layer"
-msgstr "Warstwa miejsc docelowych"
+msgstr "Слой накіраваньняў"
 
 msgid "Detail contour (2 m)"
-msgstr "Kontur szczegółowy (2 m)"
+msgstr "Дэталёвы контур (2 м)"
 
 msgid "Determines the approach and takeoff direction of the runway."
-msgstr "Wskazuje kierunek lądowania i startu na pasie startowym."
+msgstr "Паказвае кірунак прызямленьня й узьлёту на ўзьлётна-пасадачнай паласе."
 
 msgid "Difficulty"
-msgstr "Складанасьць"
+msgstr "Узровень складанасьці"
 
 msgid "Digital Distribution Account Manager"
-msgstr "Menedżer ds. kont dystrybucji cyfrowej"
+msgstr "Распарадчык па лічбаваму распаўсюджваньню"
 
 msgid "Digital Sales Manager"
-msgstr "Menedżer ds. sprzedaży cyfrowej"
+msgstr "Распарадчык па лічбаваму продажу"
 
 msgid "Dirt"
-msgstr "Ziemia"
+msgstr "Зямля"
 
 msgid "Discus fish"
-msgstr "Dyskowiec"
+msgstr "Дыскус"
 
 msgid "Discus fish school"
-msgstr "Ławica dyskowców"
+msgstr "Зграя дыскусаў"
 
 msgid "Double slip switch"
-msgstr "Rozjazd krzyżowy podwójny"
+msgstr "Падвойная крыжавая стрэлка"
 
 msgid "Double track field lighting"
-msgstr "Podwójne oświetlenie torów"
+msgstr "Падвойнае асьвятленьне рэяк"
 
 msgid "Dry"
-msgstr "Suchy"
+msgstr "Сухі"
 
 msgid "Dutch"
-msgstr "Holenderskie"
+msgstr "Нідэрладскі"
 
 msgid "Dying"
-msgstr "Śmierć"
+msgstr "Сьмерць"
 
 msgid "Eagle"
-msgstr "Orzeł"
+msgstr "Арол"
 
 msgid "Earnings"
-msgstr "Zarobki"
+msgstr "Заробкі"
 
 msgid "Easter Egg"
-msgstr "Easter egg"
+msgstr "Схаванкі"
 
 msgid "Elderberry"
-msgstr "Czarny bez"
+msgstr "Бузіна"
 
 msgid "Electric"
-msgstr "Elektryczne"
+msgstr "Электрычны"
 
 msgid "Emission"
-msgstr "Emisje"
+msgstr "Забруджваньне"
 
 msgid "Emissions layer"
-msgstr "Warstwa emisji"
+msgstr "Слой забруджваньня"
 
 msgid "English"
-msgstr "Angielski"
+msgstr "Ангельскі"
 
 msgid "Environment"
-msgstr "Środowisko"
+msgstr "Асьсяродзьдзе"
 
 msgid "European"
-msgstr "Europejskie"
+msgstr "Эўрапейскі"
 
 msgid "European linden"
-msgstr "Lipa holenderska"
+msgstr "Ліпа нідэрладская"
 
 msgid "Exit"
-msgstr "Wyjście"
+msgstr "Выйсьце"
 
 msgid "Export heightmap"
-msgstr "Eksportuj mapę cieplną"
+msgstr "Экспартаваць мапы вышынь"
 
 msgid "Extra-large country road"
-msgstr "Bardzo duża droga wiejska"
+msgstr "Вельмі вялікая вясковая дарога"
 
 msgid "Extra-large street"
-msgstr "Bardzo duża ulica"
+msgstr "Вельмі вялікая вуліца"
 
 msgid "Extremely Big"
-msgstr "Niezwykle duże"
+msgstr "Надзвычай вялікі"
 
 msgid "Factor for the buying costs of vehicles"
-msgstr "Czynnik wpływający na koszty zakupu pojazdów"
+msgstr "Чыннік ўплываюшчы на кошт набыцьця транспарту"
 
 msgid ""
 "Factor for the costs of terrain modification and infrastructure construction"
-msgstr ""
-"Czynnik wpływający na koszty modyfikacji terenu i budowy infrastruktury"
+msgstr "Чыннік ўплываюшчы на кошт зьмены краявіду й будаўніцтва інфраструктуры"
 
 msgid "Factor for the loan interest"
-msgstr "Czynnik wpływający na oprocentowanie pożyczki"
+msgstr "Чыннік ўплываюшчы на працэнтнаваньне пазыкі"
 
 msgid "Factor for the maintenance costs of tracks, roads, depots and stations"
-msgstr "Czynnik wpływający na koszty utrzymania torów, dróg, zajezdni i stacji"
+msgstr "Чыннік ўплываюшчы на выдаткі на ўтрыманьне рэяк, дарог, дэпо й станцый"
 
 msgid "Factor for the maintenance costs of vehicles"
-msgstr "Czynnik wpływający na koszty utrzymania pojazdów"
+msgstr "Чыннік ўплываюшчы на выдаткі на ўтрыманьне транспарту"
 
 msgid "Farm"
-msgstr "Farma"
+msgstr "Хутар"
 
 msgid "Farm for steel production"
-msgstr "Farma do produkcji stali"
+msgstr "Фэрма для вырабу сталі"
 
 msgid "Fence"
-msgstr "Płot"
+msgstr "Плот"
 
 msgid "Field"
-msgstr "Pole"
+msgstr "Поле"
 
 msgid "Field Decoration"
-msgstr "Dekoracja terenu"
+msgstr "Упрыгожваньне мясцовасьці"
 
 msgid "Filter"
-msgstr "Filtruj"
+msgstr "Фільтраваць"
 
 msgid "Filter/Sort"
-msgstr "Filtruj/sortuj"
+msgstr "Фільтраваць/сартаваць"
 
 msgid "Fish"
-msgstr "Ryby"
+msgstr "Рыбы"
 
 msgid "Fishery"
-msgstr "Łowisko"
+msgstr "Рыбалоўня"
+
+msgid "Flip"
+msgstr "Павярнуць"
 
 msgid "Flying"
-msgstr "Latanie"
+msgstr "Ляціць"
 
 msgid "Food"
-msgstr "Żywność"
+msgstr "Ежа"
 
 msgid "Food factory"
-msgstr "Fabryka żywności"
+msgstr "Фабрыка ежы"
 
 msgid "Food processing plant"
-msgstr "Zakład przetwórstwa spożywczego"
+msgstr "Завод харчовай перапрацоўкі"
 
 msgid "Forest"
-msgstr "Las"
+msgstr "Лес"
 
 msgid "Forest Ground"
-msgstr "Powierzchnia zalesiona"
+msgstr "Лясістая паверхня"
 
 msgid "Forest ground"
-msgstr "Powierzchnia zalesiona"
+msgstr "Лясістая паверхня"
 
 msgid "Four-lane road with a speed limit of %2%."
-msgstr "Czteropasmowa droga z ograniczeniem prędkości do %2%."
+msgstr "Чатырохпалосная дарога з абмежаваньнем хуткасьці да %2%."
 
 msgid "Four-lane street with a speed limit of %2%."
-msgstr "Czteropasmowa ulica z ograniczeniem prędkości do %2%."
+msgstr "Чатырохпалосная вуліца з абмежаваньнем хуткасьці да %2%."
 
 msgid "Four-way highway intersection."
-msgstr "Skrzyżowanie z czterema drogami."
+msgstr "Чатырохпалосны скрыжавак шаша."
 
 msgid "Fox"
-msgstr "Lis"
+msgstr "Ліс"
 
 msgid "French"
 msgstr "Францускі"
 
 msgid "Frequency of industry closures due to lack use"
-msgstr "Częstotliwość zamykania zakładów przemysłowych z powodu nieużywania"
+msgstr "Частасьць закрыцьця прамысловых устаноў з-за няўжытку"
 
 msgid "Fruit"
-msgstr "Owoce"
+msgstr "Садавіна"
 
 msgid "Fuel"
 msgstr "Паліва"
 
 msgid "Fuel refinery"
-msgstr "Rafineria paliwa"
+msgstr "Паліваперагонны завод"
 
 msgid "Functional QA"
-msgstr "Kontrola jakości – funkcjonalność"
+msgstr "Функцыянальны К.Я."
 
 msgid "Functional QA Lead"
-msgstr "Kierownik ds. kontroli jakości – funkcjonalność"
+msgstr "Функцыянальны К.Я. - Кіраўнік"
 
 msgid "Functional QA Leads"
-msgstr "Kierownicy ds. kontroli jakości – funkcjonalność"
+msgstr "Функцыянальны К.Я. - Кіраўнікі"
 
 msgid "GUIDE_ADD_TO_LINE"
 msgstr ""
-"Pojazdy mogą być przypisywane do linii. Kliknij zajezdnię lub pojazd i użyj "
-"podświetlonego przycisku."
+"Транспарт можа быць прызначаны да лініі. Націсьні на дэпо ці транспартны "
+"сродак й націсьні на падсьвечаную кнопку."
 
 msgid "GUIDE_BORROW_LOAN"
-msgstr "Wygląda na to, że brakuje ci pieniędzy. Rozważ wzięcie pożyczki."
+msgstr "Выглядае на тое, што табе бракуе грошай. Разваж пра ўзяцьце пазыкі."
 
 msgid "GUIDE_BUILD_BUS_DEPOT"
 msgstr ""
-"Aby budować autobusy i ciężarówki, musisz najpierw zainwestować w zajezdnię "
-"drogową."
+"Каб ствараць аўтобусы й грузавікі, табе найперш трэба інвэставаць у дарожнае "
+"дэпо."
 
 msgid "GUIDE_BUILD_BUS_STATION_CARGO"
 msgstr ""
-"Autobusy i przystanki mogą być budowane do drogowego przewozu ludzi i dóbr."
+"Аўтобусы й прыпынкі могуць быць пабудаваныя для дарожнага перавозу людзей й "
+"грузаў."
 
 msgid "GUIDE_BUILD_BUS_STATION_PASSENGER"
 msgstr ""
-"Autobusy i przystanki mogą być budowane do drogowego przewozu ludzi i dóbr."
+"Аўтобусы й прыпынкі могуць быць пабудаваныя для дарожнага перавозу людзей й "
+"грузаў."
 
 msgid "GUIDE_BUILD_BUS_STOP"
 msgstr ""
-"Autobusy doskonale nadają się do transportu lokalnego w miastach. Dostępne "
-"są różne rodzaje przystanków autobusowych."
+"Аўтобусы выдатна падыходзяць для мясцовага транспарту ў местах. Даступныя "
+"розныя тыпы аўтобусных прыпынкаў."
 
 msgid "GUIDE_BUILD_DOCK"
-msgstr "Aby budować statki, musisz najpierw zainwestować w stocznię."
+msgstr "Каб будаваць караблі, ты мусіш найперш інвэставаць у карабе́льная вэрф."
 
 msgid "GUIDE_BUILD_HARBOR"
-msgstr "Aby korzystać ze statków, potrzebujesz portu."
+msgstr "Каб карыстацца караблямі, табе патрэбны порт."
 
 msgid "GUIDE_BUILD_SIGNALS"
 msgstr ""
-"Sygnały świetlne mogą być używane do sterowania ruchem. Zbuduj semafory przy "
-"torach."
+"Сыгналы могуць выкарыстоўвацца для кіраваньня рухам. Пабудуй сыгналы каля "
+"рэяк."
 
 msgid "GUIDE_BUILD_STATIONS"
 msgstr ""
-"Buduj w miastach lub przy zakładach produkcyjnych stacje, aby przewozić "
-"ludzi lub towary."
+"Будуй у местах або каля прамысловасьцей станцыі, каб перавозіць людзей або "
+"грузы."
 
 msgid "GUIDE_BUILD_STREETS"
-msgstr "Stacje i zajezdnie można łączyć drogami."
+msgstr "Станцыі й дэпо можна зьвязваць дарогамі."
 
 msgid "GUIDE_BUILD_TRACKS"
-msgstr "Stacje i zajezdnie kolejowe można łączyć torami."
+msgstr "Станцыі й чыгуначныя дэпо можна зьвязваць рэйкамі."
 
 msgid "GUIDE_BUILD_TRAIN_DEPOT"
-msgstr ""
-"Aby budować pociągi, musisz najpierw zainwestować w zajezdnię kolejową."
+msgstr "Каб будаваць цягнікі, ты мусіш найперш інвэставаць у чыгуначнае дэпо."
 
 msgid "GUIDE_BUILD_TRAIN_STATION_CARGO"
 msgstr ""
-"Pociągi i stacje mogą być budowane do kolejowego przewozu ludzi i dóbr."
+"Цягнікі й станцыі могуць быць пабудаваны для чыгуначнага перавозу людзей і "
+"грузаў."
 
 msgid "GUIDE_BUILD_TRAIN_STATION_PASSENGER"
 msgstr ""
-"Pociągi i stacje mogą być budowane do kolejowego przewozu ludzi i dóbr."
+"Цягнікі й станцыі могуць быць пабудаваны для чыгуначнага перавозу людзей і "
+"грузаў."
 
 msgid "GUIDE_BULLDOZER"
 msgstr ""
-"Buldożer może być używany do usuwania infrastruktury i innych obiektów."
+"Бульдозэр можа выкарыстоўвацца для выдаленьня інфраструктуры й іншых "
+"аб'ектаў."
 
 msgid "GUIDE_CAMERA_BUTTON"
 msgstr ""
-"Narzędzie kamery umożliwia wykonywanie zrzutów ekranu i nagrywanie filmów z "
-"różnymi ogniskowymi."
+"Прылада камэры дазваляе рабіць здымкі экрану й запісваць відэа з рознымі "
+"фокуснымі адлегласьцямі."
 
 msgid "GUIDE_CLOSE_ALL"
 msgstr ""
-"Przytrzymaj [iaHint=IA_CLOSE_ALL_LONGPRESS/], by zamknąć wszystkie otwarte "
-"okna i menu."
+"Утрымліваце [iaHint=IA_CLOSE_ALL_LONGPRESS/], каб зачыніць усе адкрытыя "
+"вокны й мэню."
 
 msgid "GUIDE_COCKPIT_VIEW"
 msgstr ""
-"Wybierz podświetlony przycisk w oknie pojazdu, aby przejść do widoku z "
-"wnętrza."
+"Абяры падсьвечаную кнопку ў акне транспарту, каб перайсьці да выгляду унутры."
 
 msgid "GUIDE_COMPANY_FINANCES"
-msgstr "Przegląd finansowy pokazuje dochody i wydatki z ostatnich lat."
+msgstr "Агляд каштарысу паказвае даходы й выдаткі за апошнія гады."
 
 msgid "GUIDE_COMPANY_GROWTH"
-msgstr "Przeróżne wykresy pokazują rozwój twojej firmy."
+msgstr "Розныя графікі паказваюць разьвіцьцё кампаніі."
 
 msgid "GUIDE_COMPANY_HEAD_QUARTER"
-msgstr "Zbuduj siedzibę główną firmy w wybranym przez siebie miejscu."
+msgstr "Пабудуце штаб-кватэру кампаніі ў выбраным табою мейсцы."
 
 msgid "GUIDE_COMPANY_LOGO"
 msgstr ""
-"Istnieje możliwość wyboru logo firmy. Będzie ono widoczne na wszystkich "
-"twoich pojazdach."
+"Існуе магчымасьць выбару лягатыпу кампаніі. Ён будзе бачны на ўсіх тваіх "
+"транспартных."
 
 msgid "GUIDE_CONTOURS_BUTTON"
 msgstr ""
-"Teren może być czasem zbyt stromy, aby można było budować tory, drogi lub "
-"stacje. Kontury można sprawdzić przy użyciu specjalnej warstwy."
+"Мясцовасьць можа быць часам занадта стромай, каб будаваць рэйкі, дарогі або "
+"станцыі. Контуры можна праверыць пры ўжываньні спэцыяльнага слою."
 
 msgid "GUIDE_CONTROLLER_PAN"
-msgstr "[iaHint=IA_CAMERA_PAN/] pozwala przesunąć widok."
+msgstr "[iaHint=IA_CAMERA_PAN/] дазваляе перасунуць камэру."
 
 msgid "GUIDE_CONTROLLER_ROTATE"
-msgstr "[iaHint=IA_CAMERA_ROTATE_X/] pozwala obrócić widok."
+msgstr "[iaHint=IA_CAMERA_ROTATE_X/] дазваляе павярнуць камэру."
 
 msgid "GUIDE_CONTROLLER_ZOOM"
 msgstr ""
-"[iaHint=IA_CAMERA_ZOOM_IN/] pozwala przybliżać widok, a "
-"[iaHint=IA_CAMERA_ZOOM_OUT/] oddalać go."
+"[iaHint=IA_CAMERA_ZOOM_IN/] дазваляе набліжаць камэру, а "
+"[iaHint=IA_CAMERA_ZOOM_OUT/] — аддаляць яго."
 
 msgid "GUIDE_CREATE_LINE"
-msgstr "Utwórz nową linię w podświetlonym oknie."
+msgstr "Ствары новую лінію ў падсьвечаным акне."
 
 msgid "GUIDE_EMISSION_LAYER_BUTTON"
 msgstr ""
-"Emisje z pojazdów mogą spowalniać rozwój miast. Można je sprawdzić przy "
-"użyciu specjalnej warstwy."
+"Забруджваньне ад транспарту можа запавольваць разьвіцьцё местаў. Іх можна "
+"праверыць праз спэцыяльны слой."
 
 msgid "GUIDE_GAME_SPEED"
 msgstr ""
-"Gra ma tryb pauzy, a także trzy ustawienia szybkości: czas rzeczywisty, "
-"dwukrotne przyśpieszenie i czterokrotne przyśpieszenie."
+"Гульня мае рэжым паўзы, а таксама тры ўсталёўкі хуткасьці: рэальны час, "
+"паскарэньне ў два разы й у чатыры."
 
 msgid "GUIDE_GAME_SPEED_COUCH"
 msgstr ""
-"Gra ma tryb pauzy, a także trzy ustawienia szybkości: czas rzeczywisty, "
-"dwukrotne przyśpieszenie i czterokrotne przyśpieszenie. Przytrzymaj "
-"[iaHint=IA_GAME_PAUSE_OR_CYCLE_SPEED/], by zmienić prędkość gry."
+"Гульня мае рэжым паўзы, а таксама тры ўсталёўкі хуткасьці: рэальны час, "
+"паскарэньне ў два разы й у чатыры. Утрымліваце "
+"[iaHint=IA_GAME_PAUSE_OR_CYCLE_SPEED/], каб зьмяніць хуткасьць гульні."
 
 msgid "GUIDE_HUD_ICONS"
-msgstr ""
-"Widoczność poszczególnych ikon na głównym ekranie można włączać i wyłączać."
+msgstr "Бачасьць асобных іконак на галоўным экране можна ўключаць і выключаць."
 
 msgid "GUIDE_INSPECTOR"
 msgstr ""
-"Użyj inspektora, by wybierać obiekty w świecie gry i wyświetlać szczegółowe "
-"informacje."
+"Карыстайцесь інспэктарам, каб выбіраць аб'екты ў сьвеце гульні й "
+"адлюстроўваць падрабязную інфармацыю."
 
 msgid "GUIDE_KEY_SCROLL"
 msgstr ""
-"Używaj przycisków [iaHint=cameraMoveUp/], [iaHint=cameraMoveLeft/], "
-"[iaHint=cameraMoveDown/] i [iaHint=cameraMoveRight/], aby przesuwać widok."
+"Ужываце кнопкі [iaHint=cameraMoveUp/], [iaHint=cameraMoveLeft/], "
+"[iaHint=cameraMoveDown/] і [iaHint=cameraMoveRight/], каб перасоўваць камэру."
 
 msgid "GUIDE_LANDUSE_BUTTON"
-msgstr ""
-"Tereny są dzielone na trzy strefy, które można podejrzeć przy użyciu "
-"specjalnej warstwy."
+msgstr "Слаі дазваляюць засяродзіцца на пэўнай інфармацыі."
 
 msgid "GUIDE_LAYERS"
-msgstr "Warstwy pozwalają się skupiać na określonych informacjach."
+msgstr "Слоі дазваляюць засяроджвацца на пэўнай інфармацыі."
 
 msgid "GUIDE_LOCATE_BUTTON"
 msgstr ""
-"Kliknij przycisk w lewym górnym rogu okna zadań, aby przenieść widok na "
-"miejsce wydarzenia."
+"Клікні па кнопцы ў левым горным куце акна задач, каб перанесьці камэру на "
+"мейсца падзеі."
 
 msgid "GUIDE_MOUSE_PAN"
 msgstr ""
@@ -1314,19 +1307,19 @@ msgid "Game design"
 msgstr "Projekt gry"
 
 msgid "Generate"
-msgstr "Wygeneruj"
+msgstr "Утварыць"
 
 msgid "Generate heightmap"
 msgstr "Generuj mapę cieplną"
 
 msgid "Generate industries"
-msgstr "Generuj zakłady przemysłowe"
+msgstr "Утварыць прамысловасьці"
 
 msgid "Generate streets"
-msgstr "Generuj ulice"
+msgstr "Утварыць вуліцы"
 
 msgid "Generate towns"
-msgstr "Generuj miasta"
+msgstr "Утварыць месты"
 
 msgid "German"
 msgstr "Нямецкі"
@@ -1338,34 +1331,34 @@ msgid "Goods"
 msgstr "Тавар"
 
 msgid "Goods factory"
-msgstr "Таварны завод"
+msgstr "Завод тавараў"
 
 msgid "Grain"
 msgstr "Збожжа"
 
 msgid "Granite 1"
-msgstr "Granit 1"
+msgstr "Граніт 1"
 
 msgid "Granite 2"
-msgstr "Granit 2"
+msgstr "Граніт 2"
 
 msgid "Granite 3"
-msgstr "Granit 3"
+msgstr "Граніт 3"
 
 msgid "Granite 4"
-msgstr "Granit 4"
+msgstr "Граніт 4"
 
 msgid "Graphic Designers"
 msgstr "Projektanci grafiki"
 
 msgid "Grass"
-msgstr "Trawa"
+msgstr "Трава"
 
 msgid "Grass Cutted 01"
-msgstr "Trawa skoszona 01"
+msgstr "Скошаная трава 01"
 
 msgid "Grass Cutted 02"
-msgstr "Trawa skoszona 02"
+msgstr "Скошаная трава 02"
 
 msgid "Grass Gravel"
 msgstr "Trawa ze żwirem"
@@ -1407,7 +1400,7 @@ msgid "Greenleaf mazanita"
 msgstr "Arctostaphylos patula"
 
 msgid "Ground"
-msgstr "Ziemia"
+msgstr "Зямля"
 
 msgid "Ground tex builder"
 msgstr "Kreator tekstur powierzchni"
@@ -1954,7 +1947,7 @@ msgstr ""
 "mieszkańcy pracują i robią zakupy."
 
 msgid "HQ"
-msgstr "Siedziba główna"
+msgstr "Штаб-квартэра"
 
 msgid "HUD icon filter"
 msgstr "Filtr ikon ekranu głównego"
@@ -1963,7 +1956,7 @@ msgid "Half-barrier crossing"
 msgstr "Przejazd z półrogatkami"
 
 msgid "Hangar"
-msgstr "Hangar"
+msgstr "Ангар"
 
 msgid "Head of Marketing"
 msgstr "Kierownik działu marketingu"
@@ -1990,31 +1983,31 @@ msgid "Head of development"
 msgstr "Kierownik działu deweloperskiego"
 
 msgid "Headquarter"
-msgstr "Siedziba główna"
+msgstr "Штаб-квартэра"
 
 msgid "Hello there"
-msgstr "Hejka"
+msgstr "Вітайма"
 
 msgid "High"
 msgstr "Dużo"
 
 msgid "High-speed"
-msgstr "Wysokich prędkości"
+msgstr "Высокахуткасны"
 
 msgid "High-speed tracks"
-msgstr "Tory dla szybkiej kolei"
+msgstr "Высокахуткасная чыгунка"
 
 msgid "High-speed tracks with catenary"
-msgstr "Tory szybkiej kolei z siecią trakcyjną"
+msgstr "Высокахуткасная чыгунка з кантактай сеткай"
 
 msgid "Highway"
-msgstr "Autostrada"
+msgstr "Шаша"
 
 msgid "Highway ramp"
 msgstr "Rampa autostrady"
 
 msgid "Hilliness"
-msgstr "Pagórkowatość"
+msgstr "Пагоркавасьць"
 
 msgid "Hills forest height"
 msgstr "Wysokość lasu na wzgórzach"
@@ -2023,7 +2016,7 @@ msgid "Huge"
 msgstr "Ogromne"
 
 msgid "Idle"
-msgstr "Bezczynny"
+msgstr "Бязьдзейны"
 
 msgid "Import heightmap"
 msgstr "Importuj mapę cieplną"
@@ -2038,10 +2031,10 @@ msgid "Industries"
 msgstr "Zakłady przemysłowe"
 
 msgid "Industry closure frequency"
-msgstr "Częstotliwość zamykania zakładów przemysłowych"
+msgstr "Частасьць закрыцьця прамысловых устаноў"
 
 msgid "Industry density target"
-msgstr "Docelowe zagęszczenie przemysłu"
+msgstr "Мэтавая шчыльнасьць прамысловасьці"
 
 msgid "Industry production level"
 msgstr "Poziom produkcji zakładu przemysłowego"
@@ -2105,7 +2098,7 @@ msgid "Invisible Model"
 msgstr "Niewidzialny model"
 
 msgid "Iron bridge"
-msgstr "Most żelazny"
+msgstr "Жалезны мост"
 
 msgid "Iron ore"
 msgstr "Жалезная руда"
@@ -2117,19 +2110,19 @@ msgid "Islands"
 msgstr "Выспы"
 
 msgid "Italian"
-msgstr "Włoskie"
+msgstr "Італьянскі"
 
 msgid "Joshua tree"
-msgstr "Drzewo Jozuego"
+msgstr "Дрэва Ёзувы"
 
 msgid "Key visuals"
-msgstr "Oprawa wizualna"
+msgstr "Візуальнае афармленьне"
 
 msgid "Korean"
-msgstr "Koreańskie"
+msgstr "Карэйскі"
 
 msgid "Korean stewartia"
-msgstr "Stewarcja kameliowata"
+msgstr "Сьцюварцыя камэліявідная"
 
 msgid "Lamp"
 msgstr "Лямпа"
@@ -2184,13 +2177,13 @@ msgstr ""
 "50 pasażerów."
 
 msgid "Large highway"
-msgstr "Duża autostrada"
+msgstr "Вялікая шаша"
 
 msgid "Large landing"
 msgstr "Duży pomost"
 
 msgid "Large main building"
-msgstr "Вялікі галоўны будынак"
+msgstr "Duży budynek główny"
 
 msgid ""
 "Large main building with street access for cargo stations. Provides capacity "
@@ -2258,52 +2251,52 @@ msgstr ""
 "pojemność dla 80 pasażerów."
 
 msgid "Large street"
-msgstr "Duża ulica"
+msgstr "Вялікая вуліца"
 
 msgid "Lead Community Manager"
-msgstr "Główny menedżer ds. społeczności"
+msgstr "Вядучы распарадчык па суполнасьці"
 
 msgid "Lead artists"
-msgstr "Główni graficy"
+msgstr "Вядучыя мастакі"
 
 msgid "Lead programmer"
-msgstr "Główny programista"
+msgstr "Вядучы праграміст"
 
 msgid "Left"
 msgstr "Лева"
 
 msgid "Lemon tree"
-msgstr "Drzewko cytrynowe"
+msgstr "Лімоннае дрэўца"
 
 msgid "Length"
 msgstr "Даўжыня"
 
 msgid "Limo"
-msgstr "Limuzyna"
+msgstr "Лімузін"
 
 msgid "Line manager"
-msgstr "Menedżer linii"
+msgstr "Распарадчык лініі"
 
 msgid "Line statistics"
-msgstr "Statystyki linii"
+msgstr "Статыстыка лініі"
 
 msgid "Livestock"
-msgstr "Zwierzęta gospodarskie"
+msgstr "Гаспадарчыя жывёлы"
 
 msgid "Loan interest"
-msgstr "Працэнты пазыкі"
+msgstr "Oprocentowanie pożyczki"
 
 msgid "Localization"
-msgstr "Lokalizacja"
+msgstr "Лёкалізацыя"
 
 msgid "Locate"
 msgstr "Знайсьці"
 
 msgid "Logs"
-msgstr "Калодзьдзе"
+msgstr "Запісы"
 
 msgid "Low"
-msgstr "Mało"
+msgstr "Мала"
 
 msgid "MISSION_ALLINCLUSIVE_ASSET_HIKING_SIGN_DESC"
 msgstr "Drogowskaz dla zagubionych turystów z Innsbrucka i reszty Austrii."
@@ -2704,34 +2697,34 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_TOOLSFACTORY"
 msgstr "Fabryka narzędzi w Wiedniu"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN"
-msgstr "Wiedeń"
+msgstr "Вена"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS1"
-msgstr "Autobus w Wiedniu 1"
+msgstr "Аўтобус у Вене 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS2"
-msgstr "Autobus w Wiedniu 2"
+msgstr "Аўтобус у Вене 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS3"
-msgstr "Autobus w Wiedniu 3"
+msgstr "Аўтобус у Вене 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS4"
-msgstr "Autobus w Wiedniu 4"
+msgstr "Аўтобус у Вене 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS5"
-msgstr "Autobus w Wiedniu 5"
+msgstr "Аўтобус у Вене 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS6"
-msgstr "Autobus w Wiedniu 6"
+msgstr "Аўтобус у Вене 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS7"
-msgstr "Autobus w Wiedniu 7"
+msgstr "Аўтобус у Вене 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS8"
-msgstr "Autobus w Wiedniu 8"
+msgstr "Аўтобус у Вене 8"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS9"
-msgstr "Autobus w Wiedniu 9"
+msgstr "Аўтобус у Вене 9"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS_STATION"
 msgstr "Dworzec autobusowy w Wiedniu"
@@ -4666,16 +4659,16 @@ msgstr ""
 "Historia zapamięta tylko tych, którzy dadzą dziś temu posłuch!"
 
 msgid "MISSION_HIGHLANDS_INTRO1"
-msgstr "Шатляндыя!"
+msgstr "Szkocja!"
 
 msgid "MISSION_HIGHLANDS_INTRO2"
-msgstr "Край асьветы!"
+msgstr "Kraina oświecenia!"
 
 msgid "MISSION_HIGHLANDS_INTRO3"
-msgstr "Краіна поступу!"
+msgstr "Kraina postępu!"
 
 msgid "MISSION_HIGHLANDS_INTRO4"
-msgstr "Краіна навукі!"
+msgstr "Kraina nauki!"
 
 msgid "MISSION_HIGHLANDS_INTRO5"
 msgstr "Kraina przemysłu!"
@@ -13302,22 +13295,22 @@ msgstr ""
 "złamanego grosza do naszego projektu. A niech to!"
 
 msgid "MOD_LEGACY_VEHICLE_PACK_DESCRIPTION"
-msgstr "Арыгінальны транспарт."
+msgstr "Oryginalne zasoby pojazdu."
 
 msgid "MOD_LEGACY_VEHICLE_PACK_NAME"
-msgstr "Спадчынна транспарту"
+msgstr "Dziedziczne pojazdy"
 
 msgid "MOD_NO_COSTS_DESCRIPTION"
-msgstr "Усё дарма."
+msgstr "Wszystko jest bezpłatne."
 
 msgid "MOD_NO_COSTS_NAME"
-msgstr "Брак кошту"
+msgstr "Brak kosztów"
 
 msgid "MOD_SANDBOX_DESCRIPTION"
-msgstr "Зьмяняў усё."
+msgstr "Zmień wszystko."
 
 msgid "MOD_SANDBOX_NAME"
-msgstr "Рэжым пясочніцы"
+msgstr "Tryb piaskownicy"
 
 msgid "MOD_VEHICLES_NO_END_YEAR_DESCRIPTION"
 msgstr ""
@@ -13328,10 +13321,10 @@ msgid "MOD_VEHICLES_NO_END_YEAR_NAME"
 msgstr "Pojazdy nie są wycofywane z użycia"
 
 msgid "Machine factory"
-msgstr "Тэхнічаня фабрыка"
+msgstr "Fabryka maszyn"
 
 msgid "Machines"
-msgstr "Тэхніка"
+msgstr "Maszyny"
 
 msgid "Machines factory"
 msgstr "Fabryka maszyn"
@@ -13395,7 +13388,7 @@ msgid "Management"
 msgstr "Kierownictwo"
 
 msgid "Map size"
-msgstr "Памер мапы"
+msgstr "Rozmiar mapy"
 
 msgid "Marble"
 msgstr "Marmur"
@@ -13526,7 +13519,7 @@ msgid "Miscellaneous"
 msgstr "Różne"
 
 msgid "Mission 1"
-msgstr "Misja 1"
+msgstr "Місія 1"
 
 msgid "Mission 10"
 msgstr "Misja 10"
@@ -13638,62 +13631,77 @@ msgstr "Музыка"
 
 msgid "NEWS_DESCRIPTION_1"
 msgstr ""
-"Przeprojektowaliśmy łącznie aż 85 pojazdów, przykładając szczególną uwagę do "
-"detali.\n"
-"Poprawiliśmy renderowanie przezroczystych powierzchni u wszystkich pojazdów, "
-"by widok podczas jazdy był jeszcze lepszy i wyraźniejszy."
+"Новая інтэграцыя mod.io дазваляе падтрымліваць мадыфікацыі на розных "
+"плятформах.\n"
+"Скарыстайся ўбудаванымі аглядальнікамі мадыфікацыяў на Steam і mod.io для "
+"зручнага доступу да мадыфікацыяў.\n"
+"Лёгка дзяліся сваімі захаваньнямі й мапамі зь іншымі гульцамі."
 
 msgid "NEWS_DESCRIPTION_2"
 msgstr ""
-"Teraz można grać z użyciem samego kontrolera.\n"
-"W ustawieniach można wybrać dwa interfejsy użytkownika: klasyczny i "
-"przeznaczony do użycia z kontrolerem.\n"
-"Z obu interfejsów można korzystać przy użyciu myszy i klawiatury."
+"Nowa integracja mod.io pozwala na wsparcie modyfikacji na wielu "
+"platformach.\n"
+"Skorzystaj ze zintegrowanej przeglądarki modyfikacji, aby uzyskać łatwy "
+"dostęp do modyfikacji.\n"
+"Z łatwością dziel się swoimi plikami zapisu i niestandardowymi mapami z "
+"innymi graczami."
 
 msgid "NEWS_DESCRIPTION_3"
 msgstr ""
-"Grupa oficjalnie obsługiwanych języków została powiększona o włoski, "
-"koreański i portugalski (Brazylia)."
+"Buduj bardziej eleganckie drogi i tory dzięki nowym liniom pomocniczym i "
+"automatycznemu wyrównywaniu do uprzednio zdefiniowanych kątów.\n"
+"Sprawdź długość i kąt segmentu budowanej drogi lub toru."
 
 msgid "NEWS_DESCRIPTION_4"
 msgstr ""
-"Znacząco zmniejszyliśmy rozmiar zapisów gry.\n"
-"Czasy wczytywania są wyraźnie krótsze.\n"
-"Wprowadziliśmy do gry wiele innych rozwiązań optymalizacyjnych i "
-"poprawiliśmy wydajność oraz wykorzystanie pamięci."
+"Ciesz się łatwiejszym stawianiem budynków dzięki funkcjom automatycznego "
+"ustawiania i wyrównywania.\n"
+"Bezproblemowo wymieniaj mosty i tunele bez potrzeby wyburzania oraz ponownej "
+"budowy."
 
 msgid "NEWS_DESCRIPTION_5"
 msgstr ""
-"W oparciu o uwagi graczy wprowadziliśmy wiele innych ulepszeń, dodatków i "
-"poprawek błędów.\n"
-"Szczegółowe informacje o wszystkich usprawnieniach można znaleźć na liście "
-"zmian dostępnej w oficjalnej wiki Transport Fever 2."
+"Od teraz pojazdy drogowe wybierają trasy z mniejszą liczbą skrzyżowań.\n"
+"Pojazdy są skuteczniej rozmieszczane na wszystkich pasach.\n"
+"Wolniejsze pojazdy pozostają na prawym pasie, pozwalając szybszym "
+"użytkownikom drogi na wymijanie ich."
 
 msgid "NEWS_DESCRIPTION_6"
 msgstr ""
-"Dzięki nowej wersji Deluxe Edition można uzyskać dostęp do dodatkowej "
-"zawartości."
+"W oparciu o wasze opinie wprowadziliśmy liczne dodatkowe usprawnienia, "
+"naprawy błędów i funkcje poprawiające jakość (QoL), aby usprawnić wygodę gry "
+"i rozgrywkę.\n"
+"Odwiedź oficjalną Transport Fever 2, aby uzyskać pełną listę usprawnień."
+
+msgid "NEWS_DESCRIPTION_7"
+msgstr ""
+"Z łatwością twórz drogi i tory równoległe do istniejących sieci drogowych i "
+"kolejowych.\n"
+"Buduj potrójne rozjazdy na torach, aby ulepszyć swoje sieci kolejowe."
 
 msgid "NEWS_TITLE"
-msgstr "Wieści – 9 marca 2023: Duża aktualizacja gry"
+msgstr "Навінка: выданьне асноўнага апошняга абнаўленьня гульні"
 
 msgid "NEWS_TITLE_1"
-msgstr "Ładniejsze i bardziej szczegółowe pojazdy"
+msgstr "Падтрымка мадыфікацый на многіх платформах"
 
 msgid "NEWS_TITLE_2"
-msgstr "Pełna obsługa kontrolerów i nowy interfejs użytkownika"
+msgstr "Падтрымка мадыфікацый на розных плятформах"
 
 msgid "NEWS_TITLE_3"
-msgstr "Więcej obsługiwanych języków"
+msgstr "Паляпшэныя прылады для будаўніцтва дарог і рэяк"
 
 msgid "NEWS_TITLE_4"
-msgstr "Szybsze wczytywanie i zoptymalizowane wykorzystanie pamięci"
+msgstr "Палегчана будаваньне й замена"
 
 msgid "NEWS_TITLE_5"
-msgstr "Wiele innych ulepszeń"
+msgstr "Больш рэалістычныя паводзіны падчас язды"
 
 msgid "NEWS_TITLE_6"
-msgstr "Nowa wersja Deluxe Edition"
+msgstr "Шмат іншых паляпшэньняў"
+
+msgid "NEWS_TITLE_7"
+msgstr "Больш магчымасьцей для будаўніцтву дарог і рэяк"
 
 msgid "Navigable waters layer"
 msgstr "Warstwa wód żeglownych"
@@ -13759,37 +13767,37 @@ msgid "Often"
 msgstr "Często"
 
 msgid "Oh, what's that?"
-msgstr "О, што гэта?"
+msgstr "O, a co to?"
 
 msgid "Oil"
-msgstr "Olej"
+msgstr "Нафта"
 
 msgid "Oil refinery"
-msgstr "Rafineria ropy naftowej"
+msgstr "Нафтаперагонны завод"
 
 msgid "Oil sand"
-msgstr "Piaski roponośne"
+msgstr "Нафтавыя пяскі"
 
 msgid "Oil well"
-msgstr "Szyb naftowy"
+msgstr "Нафтавая сьвідравіна"
 
 msgid "Ok"
-msgstr "OK"
+msgstr "Добра"
 
 msgid "Ok!"
-msgstr "OK!"
+msgstr "Добра!"
 
 msgid "One-lane one-way road with a speed limit of %2%."
-msgstr "Jednopasmowa jednokierunkowa droga z ograniczeniem prędkości do %2%."
+msgstr "Аднапалосная аднакірунковая дарога з абмежаваньнем хуткасьці да %2%."
 
 msgid "One-lane one-way street with a speed limit of %2%."
-msgstr "Jednopasmowa jednokierunkowa ulica z ograniczeniem prędkości do %2%."
+msgstr "Аднапалосная аднакірунковая вуліца з абмежаваньнем хуткасьці да %2%."
 
 msgid "One-way"
 msgstr "Аднакірунковы"
 
 msgid "Overcrowded stations"
-msgstr "Przeludnione stacje"
+msgstr "Перапоўненая станцыя"
 
 msgid "PR & Community Management"
 msgstr "PR i zarządzanie społecznością"
@@ -13804,22 +13812,22 @@ msgid "PR and Communication Specialists"
 msgstr "Specjaliści ds. PR i komunikacji"
 
 msgid "Pageantry"
-msgstr "Dekoracje"
+msgstr "Аздабленьне"
 
 msgid "Paint terrain"
-msgstr "Maluj teren"
+msgstr "Малюй мясцовасьць"
 
 msgid "Palm"
 msgstr "Пальма"
 
 msgid "Palmetto"
-msgstr "Palmiczka"
+msgstr "Пальмічка"
 
 msgid "Paper"
-msgstr "Папер"
+msgstr "Папера"
 
 msgid "Passenger"
-msgstr "Для пасажыраў"
+msgstr "Пасажырскі"
 
 msgid "Passenger airfield"
 msgstr "Lądowisko pasażerskie"
@@ -13865,7 +13873,7 @@ msgid "Passenger/cargo harbor"
 msgstr "Przystań towarowa/pasażerska"
 
 msgid "Passengers"
-msgstr "Pasażerowie"
+msgstr "Пасажыры"
 
 msgid "Path signal"
 msgstr "Semafor"
@@ -13916,13 +13924,13 @@ msgid "Platform for waiting passengers."
 msgstr "Peron dla pasażerów oczekujących."
 
 msgid "Platform length"
-msgstr "Długość peronu"
+msgstr "Даўжыня плятформы"
 
 msgid "Platform roof"
 msgstr "Zadaszenie peronu"
 
 msgid "Platforms"
-msgstr "Perony"
+msgstr "Плятформы"
 
 msgid "Platforms Left"
 msgstr "Perony lewe"
@@ -13931,7 +13939,7 @@ msgid "Platforms Right"
 msgstr "Perony prawe"
 
 msgid "Private transport"
-msgstr "Transport prywatny"
+msgstr "Прыватны транспарт"
 
 msgid "Product Management"
 msgstr "Zarządzanie produktem"
@@ -13940,7 +13948,7 @@ msgid "Product Management Assistant"
 msgstr "Asystent działu zarządzania produktem"
 
 msgid "Production"
-msgstr "Produkcja"
+msgstr "Выраб"
 
 msgid "Production Manager"
 msgstr "Menedżer ds. produkcji"
@@ -13955,7 +13963,7 @@ msgid "Project lead"
 msgstr "Kierownik projektu"
 
 msgid "Public transport"
-msgstr "Transport publiczny"
+msgstr "Грамадзкі транспарт"
 
 msgid "QA Manager"
 msgstr "Menedżer ds. kontroli jakości"
@@ -14015,19 +14023,19 @@ msgid "River bed"
 msgstr "Koryto rzeki"
 
 msgid "Road depot"
-msgstr "Zajezdnia drogowa"
+msgstr "Дарожнае дэпо"
 
 msgid "Roaring"
-msgstr "Ryk"
+msgstr "Рык"
 
 msgid "Rock"
 msgstr "Камень"
 
 msgid "Rotate"
-msgstr "Obróć"
+msgstr "Вярцець"
 
 msgid "Roundabout"
-msgstr "Rondo"
+msgstr "Кальцавая"
 
 msgid "Rum"
 msgstr "Rum"
@@ -14036,49 +14044,49 @@ msgid "Running"
 msgstr "Bieganie"
 
 msgid "Runway"
-msgstr "Pas startowy"
+msgstr "Паласа паскарэньня"
 
 msgid "Russian"
-msgstr "Rosyjskie"
+msgstr "Расейскі"
 
 msgid "Sagebrush"
 msgstr "Bylica"
 
 msgid "Saguaro cactus"
-msgstr "Kaktus saguaro"
+msgstr "Кактус сагуаро"
 
 msgid "Salmon"
-msgstr "Łosoś"
+msgstr "Ласось"
 
 msgid "Salmon school"
 msgstr "Ławica łososi"
 
 msgid "Sand"
-msgstr "Piasek"
+msgstr "Пясок"
 
 msgid "Sand 01"
-msgstr "Piasek 01"
+msgstr "Пясок 01"
 
 msgid "Sand 02"
-msgstr "Piasek 02"
+msgstr "Пясок 02"
 
 msgid "Sand 03"
-msgstr "Piasek 03"
+msgstr "Пясок 03"
 
 msgid "Sand 04"
-msgstr "Piasek 04"
+msgstr "Пясок 04"
 
 msgid "Sand red 01"
-msgstr "Czerwony piasek 01"
+msgstr "Чырвоны пясок 01"
 
 msgid "Sand red 02"
-msgstr "Czerwony piasek 02"
+msgstr "Чырвоны пясок 02"
 
 msgid "Sand yellow"
-msgstr "Żółty piasek"
+msgstr "Жоўты пясок"
 
 msgid "Sand yellow 02"
-msgstr "Żółty piasek 02"
+msgstr "Жоўты пясок 02"
 
 msgid "Sandstone 1"
 msgstr "Piaskowiec 1"
@@ -14090,10 +14098,10 @@ msgid "Sandstone 3"
 msgstr "Piaskowiec 3"
 
 msgid "Saw mill"
-msgstr "Tartak"
+msgstr "Тартак"
 
 msgid "Scale"
-msgstr "Skala"
+msgstr "Скала"
 
 msgid "Scots pine"
 msgstr "Sosna zwyczajna"
@@ -14114,7 +14122,7 @@ msgid "Second street connection"
 msgstr "Drugie połączenie drogowe"
 
 msgid "Select"
-msgstr "Wybierz"
+msgstr "Выбраць"
 
 msgid "Select bar"
 msgstr "Wybierz słupek"
@@ -14135,7 +14143,7 @@ msgid "Set Start Point"
 msgstr "Wyznacz punkt startowy"
 
 msgid "Settings"
-msgstr "Ustawienia"
+msgstr "Налады"
 
 msgid "Shape"
 msgstr "Kształt"
@@ -14150,7 +14158,7 @@ msgid "Ship Waypoint"
 msgstr "Punkt kontrolny dla statków"
 
 msgid "Shipyard"
-msgstr "Stocznia"
+msgstr "Карабе́льная верф"
 
 msgid "Shrubland vegetation"
 msgstr "Teren krzewiasty"
@@ -14162,10 +14170,10 @@ msgid "Silver Spoons"
 msgstr "Srebrne łyżeczki"
 
 msgid "Silver ore"
-msgstr "Ruda srebra"
+msgstr "Срэбная руда"
 
 msgid "Simple crossing"
-msgstr "Prosty przejazd"
+msgstr "Просты пераезд"
 
 msgid "Single track field lighting"
 msgstr "Pojedyncze oświetlenie torów"
@@ -14180,23 +14188,23 @@ msgid "Six-lane street with a speed limit of %2%."
 msgstr "Sześciopasmowa ulica z ograniczeniem prędkości do %2%."
 
 msgid "Size"
-msgstr "Rozmiar"
+msgstr "Памер"
 
 msgid "Small"
-msgstr "Małe"
+msgstr "Малы"
 
 msgid "Small bus/tram stop for passengers, to be placed on the sidewalk."
 msgstr ""
 "Mały przystanek autobusowy/tramwajowy dla pasażerów, umieszczany na chodniku."
 
 msgid "Small cargo building"
-msgstr "Mały budynek towarowy"
+msgstr "Малы грузавы будынак"
 
 msgid "Small country road"
-msgstr "Mała droga wiejska"
+msgstr "Малая вёскавая дарога"
 
 msgid "Small dock"
-msgstr "Mały dok"
+msgstr "Малы док"
 
 msgid ""
 "Small dock for small cargo ships. A small landing is required for ships to "
@@ -14215,10 +14223,10 @@ msgstr ""
 "pasażerów."
 
 msgid "Small landing"
-msgstr "Mały pomost"
+msgstr "Малы памост"
 
 msgid "Small main building"
-msgstr "Mały budynek główny"
+msgstr "Малы галоўны будынак"
 
 msgid ""
 "Small main building with street access for cargo stations. Provides capacity "
@@ -14296,7 +14304,7 @@ msgstr ""
 "umożliwia załadunku towarów."
 
 msgid "Snow 01"
-msgstr "Śnieg 01"
+msgstr "Сьнег 01"
 
 msgid "Software Assistant"
 msgstr "Asystent działu oprogramowania"
@@ -14305,31 +14313,31 @@ msgid "Software Product Managers"
 msgstr "Menedżer ds. produktów z zakresu oprogramowania"
 
 msgid "Soil 01"
-msgstr "Gleba 01"
+msgstr "Глеба 01"
 
 msgid "Soil Sand 01"
-msgstr "Gleba piaskowa 01"
+msgstr "Пяшчаная глеба 01"
 
 msgid "Soil Sand 02"
-msgstr "Gleba piaskowa 02"
+msgstr "Пяшчаная глеба 02"
 
 msgid "Soil Sand 03"
-msgstr "Gleba piaskowa 03"
+msgstr "Пяшчаная глеба 03"
 
 msgid "Something mysterious"
-msgstr "Coś tajemniczego"
+msgstr "Нешта таямнічае"
 
 msgid "Sometimes"
-msgstr "Czasami"
+msgstr "Часам"
 
 msgid "Sort"
-msgstr "Sortuj"
+msgstr "Сартаваць"
 
 msgid "Sound effects"
 msgstr "Efekty dźwiękowe"
 
 msgid "Spanish"
-msgstr "Hiszpańskie"
+msgstr "Гішпаньскі"
 
 msgid "Special platform roof"
 msgstr "Specjalne zadaszenie peronu"
@@ -14363,10 +14371,10 @@ msgid "Station exit"
 msgstr "Wyjście ze stacji"
 
 msgid "Station statistics"
-msgstr "Statystyki stacji"
+msgstr "Статыстыкі станцыі"
 
 msgid "Stations"
-msgstr "Stacje"
+msgstr "Станцыі"
 
 msgid "Stations layer"
 msgstr "Warstwa stacji"
@@ -14375,7 +14383,7 @@ msgid "Steel"
 msgstr "Сталь"
 
 msgid "Steel mill"
-msgstr "Сталеліцейня"
+msgstr "Сталеліце́йны заво́д"
 
 msgid "Stone"
 msgstr "Камень"
@@ -14414,7 +14422,7 @@ msgid "Sugar"
 msgstr "Цукер"
 
 msgid "Sugar maple"
-msgstr "Klon cukrowy"
+msgstr "Цукровы клён"
 
 msgid "Suspension Bridge"
 msgstr "Most wiszący"
@@ -14432,40 +14440,40 @@ msgid "T-intersection"
 msgstr "Skrzyżowanie w kształcie litery T"
 
 msgid "TIP_CONSTRUCTION_1"
-msgstr ""
-"Buduj mosty o wystarczającej wysokości, aby nie blokować drogi statkom."
+msgstr "Будуй масты дастатковай вышыні, каб не перашкаджаць праходу караблёў."
 
 msgid "TIP_CONSTRUCTION_10"
 msgstr ""
-"Jeśli stacja znajduje się w obszarze napływu innej stacji, pasażerowie i "
-"towary mogą się pomiędzy nimi przenosić."
+"Калі станцыя знаходзіцца ў зоне ахопу іншай станцыі, пасажыры й тавары "
+"могуць перамяшчацца між імі."
 
 msgid "TIP_CONSTRUCTION_11"
 msgstr ""
-"Stacje mogą być w czasie budowy obracane przy użyciu [iaHint=constructOpt2/] "
-"i [iaHint=constructOpt1/]. [iaHint=IA_PRECISION_MODE/] zwiększy twoją "
-"precyzję."
+"Станцыі пад час будаўніцтву можна вярцець праз [iaHint=constructOpt2/] і "
+"[iaHint=constructOpt1/]. [iaHint=IA_PRECISION_MODE/] абы павялічыць "
+"дакладнасьць."
 
 msgid "TIP_CONSTRUCTION_2"
 msgstr ""
-"Koszt budowy i utrzymania mostów i tuneli zależy od ich wysokości i "
-"głębokości."
+"Кошт будаўніцтву й утрыманьня мастоў й тунэляў залежыць ад іх вышыні й "
+"глыбіні."
 
 msgid "TIP_CONSTRUCTION_3"
-msgstr "Użyj narzędzie do modyfikacji torów, aby zelektryfikować linie."
+msgstr "Ужываце прыладу для паляпшжньня рэяк, каб электрыфікаваць лініі."
 
 msgid "TIP_CONSTRUCTION_4"
-msgstr "W czasie budowy torów podążaj za konturami – korekty terenu są drogie!"
+msgstr ""
+"Падчас будаўніцтву рэяк накіроўвайся за контурамі – зьмены краявіду дарагія!"
 
 msgid "TIP_CONSTRUCTION_5"
 msgstr ""
-"Unikaj ciasnych zakrętów podczas budowy torów, ponieważ zmniejszają one "
-"maksymalną dopuszczalną prędkość."
+"Ухіляйся ад рэзкіх паваротаў падчас будаўніцтву рэяк, бо яны зьніжаюць "
+"максымальна дапушчальную хуткасьць."
 
 msgid "TIP_CONSTRUCTION_6"
 msgstr ""
-"Korzystanie z przycisku [iaHint=constructNoSnap/] w czasie budowania może "
-"zapobiec automatycznemu dopasowywaniu."
+"Карыстаньне кнопкай [iaHint=constructNoSnap/] падчас будаўніцтву можа "
+"прадухіліць аўтаматычнае дапасаваньне."
 
 msgid "TIP_CONSTRUCTION_6_COUCH"
 msgstr ""
@@ -14545,23 +14553,23 @@ msgstr ""
 
 msgid "TIP_VEHICLES_6"
 msgstr ""
-"W przypadku pojazdów wyższy poziom utrzymania oznacza niższe emisje, ale "
-"zwiększa koszty utrzymania."
+"У выпадку транспарту вышэйшы ўзровень утрыманьня азначае меншае "
+"забруджваньне, але павялічвае выдаткі на ўтрыманьне."
 
 msgid "Target value for number of industries"
 msgstr "Wartość docelowa dla kilku zakładów przemysłowych"
 
 msgid "Taxi signal"
-msgstr "Sygnał taksówki"
+msgstr "Сыгнал таксоўкі"
 
 msgid "Taxiway"
 msgstr "Droga kołowania"
 
 msgid "Team"
-msgstr "Zespół"
+msgstr "Суполка"
 
 msgid "Temperate"
-msgstr "Umiarkowany"
+msgstr "Умераны"
 
 msgid "Temperate (assets only)"
 msgstr "Umiarkowany (tylko elementy)"
@@ -14594,28 +14602,28 @@ msgid "Time scale"
 msgstr "Шкала часу"
 
 msgid "Tip"
-msgstr "Wskazówka"
+msgstr "Падказка"
 
 msgid "Tools"
 msgstr "Прылады"
 
 msgid "Tools factory"
-msgstr "Фабрыка прылад"
+msgstr "Завод прылад"
 
 msgid "Total earnings"
-msgstr "Łączne zarobki"
+msgstr "Агульны заробак"
 
 msgid "Town names"
-msgstr "Nazwy miast"
+msgstr "Назвы мест"
 
 msgid "Town statistics"
-msgstr "Statystyki miasta"
+msgstr "Статыстыкі места"
 
 msgid "Towns"
-msgstr "Miasta"
+msgstr "Месты"
 
 msgid "Towns cargo needs"
-msgstr "Zapotrzebowanie towarowe miast"
+msgstr "Патрэба меcтаў у грузах"
 
 msgid "Track assets"
 msgstr "Elementy torów"
@@ -14627,22 +14635,22 @@ msgid "Track speed limits layer"
 msgstr "Warstwa ograniczeń prędkości na torach"
 
 msgid "Track type"
-msgstr "Rodzaj torów"
+msgstr "Тып рэяк"
 
 msgid "Tracks"
-msgstr "Tory"
+msgstr "Рэйкі"
 
 msgid "Traffic congestion"
-msgstr "Zator"
+msgstr "Затор"
 
 msgid "Train Fever"
 msgstr "Train Fever"
 
 msgid "Train depot"
-msgstr "Zajezdnia kolejowa"
+msgstr "Чыгуначнае дэпо"
 
 msgid "Train station"
-msgstr "Stacja kolejowa"
+msgstr "Чыгуначная станцыя"
 
 msgid "Tram depot"
 msgstr "Zajezdnia tramwajowa"
@@ -14660,16 +14668,16 @@ msgid "Transport Fever 2"
 msgstr "Transport Fever 2"
 
 msgid "Tree"
-msgstr "Drzewo"
+msgstr "Дрэва"
 
 msgid "Tree limit"
-msgstr "Limit drzew"
+msgstr "Абмеж. дрэў"
 
 msgid "Trigger horn"
-msgstr "Użyj sygnalizatora"
+msgstr "Сыгналізаваць"
 
 msgid "Tropical"
-msgstr "Tropikalny"
+msgstr "Тропікавы"
 
 msgid "Tropical (assets only)"
 msgstr "Tropikalny (tylko elementy)"
@@ -14678,7 +14686,7 @@ msgid "Tropical vegetation"
 msgstr "Roślinność tropikalna"
 
 msgid "Truck station"
-msgstr "Stacja ciężarówek"
+msgstr "Станцыя грузавікоў"
 
 msgid "Truck unload stop"
 msgstr "Przystanek wyładunkowy przeznaczony dla ciężarówek"
@@ -14699,10 +14707,10 @@ msgid "Underpass for passenger platforms."
 msgstr "Przejście podziemne przeznaczone dla peronów pasażerskich."
 
 msgid "Unfortunate!"
-msgstr "A to pech!"
+msgstr "Во бяда!"
 
 msgid "Urban"
-msgstr "Miejski"
+msgstr "Меставы"
 
 msgid ""
 "Used as a normal path signal to regulate traffic or as a one-way signal."
@@ -14721,93 +14729,92 @@ msgstr ""
 "Przejeżdżające pociągi używają sygnalizatorów."
 
 msgid "Used to buy/sell buses and trucks."
-msgstr "Służy do zakupu i sprzedaży autobusów oraz ciężarówek."
+msgstr "Служыць для набыцьця й продажу аўтобусоў ды грузавікоў."
 
 msgid "Used to buy/sell ships."
-msgstr "Służy do zakupu i sprzedaży statków."
+msgstr "Служыць для набыцьця й продажу караблёў."
 
 msgid "Used to buy/sell small aircraft."
-msgstr "Służy do zakupu i sprzedaży małych samolotów."
+msgstr "Служыць для набыцьця й продажу малых самалётаў."
 
 msgid "Used to buy/sell small and large aircraft."
-msgstr "Służy do zakupu i sprzedaży dużych samolotów."
+msgstr "Служыць для набыцьця й продажу малых ды вялікіх самалётаў."
 
 msgid "Used to buy/sell trains."
-msgstr "Służy do zakupu i sprzedaży pociągów."
+msgstr "Служыць для набыцьця й продажу цягнікоў."
 
 msgid "Used to buy/sell trams."
-msgstr "Służy do zakupu i sprzedaży tramwajów."
+msgstr "Служыць для набыцьця й продажу трамваяў."
 
 msgid "VEHICLE_BUS_ABOAG_DESCRIPTION"
 msgstr ""
-"Wczesny „spalinowy omnibus odkryty” (RK) firmy Allgemeine Berliner Omnibus "
-"AG (ABOAG)."
+"Раньні «вадзяны адчынены амнібус» (RK) фірмы Allgemeine Berliner Omnibus AG "
+"(ABOAG)."
 
 msgid "VEHICLE_BUS_ABOAG_NAME"
-msgstr "Omnibus odkryty marki Daimler"
+msgstr "Адчынены амнібус маркі Daimler"
 
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_DESCRIPTION"
 msgstr ""
-"Zwykły dyliżans, który był używany we wczesnych latach transportu "
-"publicznego."
+"Звычайная карэта, якая ўжывалася ў раньнія гады грамадзкага транспарту."
 
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_NAME"
 msgstr "Amerykański dyliżans"
 
 msgid "VEHICLE_BUS_BENZ_O6600_DESCRIPTION"
 msgstr ""
-"Ten zbudowany przez koncern Mercedes-Benz autobus miejski kosztował wówczas "
-"52 785 marek niemieckich."
+"Гэты пабудаваны канцэрнам Mercedes-Benz гарадзкі аўтобус каштаваў тады 52 "
+"785 нямецкіх марак."
 
 msgid "VEHICLE_BUS_BENZ_O6600_NAME"
 msgstr "Mercedes-Benz O 6600"
 
 msgid "VEHICLE_BUS_BERKHOF_DUVEDEC_DESCRIPTION"
 msgstr ""
-"Autobus Berkhof Duvedec zyskał bardzo dobre opinie za wyjątkową wygodę."
+"Аўтобус Berkhof Duvedec набыў вельмі добрыя водгукі за выключную выгоду."
 
 msgid "VEHICLE_BUS_BERKHOF_DUVEDEC_NAME"
 msgstr "Berkhof Duvedec"
 
 msgid "VEHICLE_BUS_BK_670_DESCRIPTION"
 msgstr ""
-"Ten autobus z silnikiem Diesla został wprowadzony, aby obsługiwać "
-"najbardziej ruchliwe linie w Pekinie."
+"Гэты аўтобус з дызэльным рухавіком быў уведзены, каб абслугоўваць найбольш "
+"загружаныя лініі ў Пэкіну."
 
 msgid "VEHICLE_BUS_BK_670_NAME"
 msgstr "BK 670"
 
 msgid "VEHICLE_BUS_CHEVROLET_C60_1974_DESCRIPTION"
 msgstr ""
-"C60 należał do serii B Chevroleta/GMC i został zbudowany z myślą o wielu "
-"zastosowaniach, m.in. jako autobus szkolny lub miejski."
+"C60 належаў да сэрыі B Chevrolet/GMC і быў пабудаваны з думкай пра шматлікія "
+"ўжываньні, у тым ліку як школьны або гарадзкі аўтобус."
 
 msgid "VEHICLE_BUS_CHEVROLET_C60_1974_NAME"
 msgstr "Chevrolet C60"
 
 msgid "VEHICLE_BUS_CITYRAMA_DESCRIPTION"
 msgstr ""
-"Ten egzotyczny autobus został zbudowany przez firmę Currus na podwoziu "
-"Citroëna. W pełni przeszklona, dwupoziomowa przestrzeń dla pasażerów "
-"zapewniała doskonałą widoczność podczas miejskich wycieczek."
+"Гэты экзатычны аўтобус быў пабудаваны фірмай Currus на шасі Citroën. "
+"Поўнасьцю шкляная, двухпавярховая прастора для пасажыраў забясьпечвала "
+"выдатную бачнасьць падчас гарадзкіх экскурсій."
 
 msgid "VEHICLE_BUS_CITYRAMA_NAME"
 msgstr "Citroën U55 Currus Cityrama"
 
 msgid "VEHICLE_BUS_D40_DESCRIPTION"
 msgstr ""
-"Autobus miejski D40 został zbudowany przez New Flyer Industries. Jego ściany "
-"boczne były wykonane z pustych rur i pokryte włóknem szklanym, a osłony kół "
-"ze stali nierdzewnej."
+"Гарадзкі аўтобус D40 быў пабудаваны кампаніяй New Flyer Industries. Яго "
+"бакавыя сьцены былі зроблены з пустых труб і пакрыты шкловалакном, а "
+"абаронкі колаў — з нержавеючай сталі."
 
 msgid "VEHICLE_BUS_D40_NAME"
 msgstr "New Flyer D40"
 
 msgid "VEHICLE_BUS_DROSHKY_DESCRIPTION"
 msgstr ""
-"Początkowo ta lekka czterokołowa konstrukcja była wykorzystywana przez rody "
-"szlacheckie na wycieczkach. W późniejszych latach dorożka stała się "
-"poprzednikiem nowoczesnej taksówki."
+"Пачаткова гэтая лёгкая чатырохколавая канструкцыя выкарыстоўвалася "
+"шляхецкімі родамі на экскурсіях. У наступныя гады дарожка стала папярэднікам "
+"сучаснай таксоўкі."
 
 msgid "VEHICLE_BUS_DROSHKY_NAME"
 msgstr "Dorożka"
@@ -14914,16 +14921,16 @@ msgstr "MAN SL 192"
 
 msgid "VEHICLE_BUS_MAZ_103_BS_DESCRIPTION"
 msgstr ""
-"Гэты аўтобус, звычайна ўжываецца для мясцовых перавозак, усё яшчэ "
-"вырабляецца ў Беларусі. Гэтая вэрсія вылучаецца мадэрнізаваным выглядам і "
-"рознымі колерамі."
+"Гэты аўтобус, звычайна ўжываны для мясцовага транспарту, дагэтуль "
+"вырабляецца ў Беларусі. Гэтая вэрсія вылучаецца мадэрнізаваным выглядам й "
+"іншымі колерамі."
 
 msgid "VEHICLE_BUS_MAZ_103_BS_NAME"
 msgstr "МАЗ 103 (BS)"
 
 msgid "VEHICLE_BUS_MAZ_103_DESCRIPTION"
 msgstr ""
-"Гэты аўтобус, звычайна ўжываецца для мясцовых перавозак, усё яшчэ "
+"Гэты аўтобус звычайна ўжываны для мясцовага транспарту й дагэтуль "
 "вырабляецца ў Беларусі."
 
 msgid "VEHICLE_BUS_MAZ_103_NAME"
@@ -17218,7 +17225,7 @@ msgstr ""
 "Spawane pionowo przegrody tego wagonu zmniejszają masowe ruchy ładunku."
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1950_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_NIKOLAS_1ST_DESCRIPTION"
 msgstr ""
@@ -17235,7 +17242,7 @@ msgstr ""
 "półkami."
 
 msgid "VEHICLE_WAGGON_OPEN_1850_NAME"
-msgstr "Gondola"
+msgstr "Гандола"
 
 msgid "VEHICLE_WAGGON_OPEN_1910_DESCRIPTION"
 msgstr ""
@@ -17243,7 +17250,7 @@ msgstr ""
 "produkowane od 1910 roku z kabiną hamulcową lub bez niej."
 
 msgid "VEHICLE_WAGGON_OPEN_1910_NAME"
-msgstr "Gondola"
+msgstr "Гандола"
 
 msgid "VEHICLE_WAGGON_OPEN_1975_DESCRIPTION"
 msgstr ""
@@ -17266,302 +17273,301 @@ msgid "VEHICLE_WAGGON_PULLMAN_1850_DESCRIPTION"
 msgstr "Wczesny drewniany, niezbyt wygodny wagon pasażerski."
 
 msgid "VEHICLE_WAGGON_PULLMAN_1850_NAME"
-msgstr "Wagon pasażerski"
+msgstr "Пасажырскі вагон"
 
 msgid "VEHICLE_WAGGON_PULLMAN_1876_DESCRIPTION"
 msgstr ""
-"Wagon pasażerski z clerestorium zapewniającym lepszą wentylację i komfort."
+"Пасажырскі вагон з клерасторыем, які забясьпечвае лепшую вэнтыляцыю й выгоду."
 
 msgid "VEHICLE_WAGGON_PULLMAN_1876_NAME"
-msgstr "Wagon pasażerski z clerestorium"
+msgstr "Пасажырскі вагон з клерасторыем"
 
 msgid "VEHICLE_WAGGON_PULLMAN_1900_DESCRIPTION"
 msgstr ""
-"Ciężki wagon pasażerski z podwyższonym komfortem do obsługi długich tras w "
-"USA."
+"Цяжкі пасажырскі вагон з падвышанай выгодай для абслугоўваньня доўгіх "
+"маршрутаў у ЗША."
 
 msgid "VEHICLE_WAGGON_PULLMAN_1900_NAME"
-msgstr "Sześcioosiowy wagon pasażerski"
+msgstr "Шасьцівосевы пасажырскі вагон"
 
 msgid "VEHICLE_WAGGON_PUTILOV_3RD_DESCRIPTION"
 msgstr ""
-"Ten wagon pasażerski był jednym z ostatnich budowanych z 3 osiami. Był "
-"używany do różnych klas i odpowiednio malowany."
+"Гэты пасажырскі вагон быў адным з апошніх, пабудаваных з 3 восямі. Ён "
+"ужываўся для розных клясаў і адпаведна афарбоўваўся."
 
 msgid "VEHICLE_WAGGON_PUTILOV_3RD_NAME"
-msgstr "Putilov"
+msgstr "Пуцілаў"
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1850_DESCRIPTION"
 msgstr ""
-"Słupki są pionowymi wspornikami na powierzchni ładunkowej pojazdów lub "
-"przyczep oraz charakterystyczną cechą płaskich wagonów towarowych."
+"Слупкі зьяўляюцца вэртыкальнымі апорамі на грузавой паверхні транспарце або "
+"прычэпаў і характэрнай рысай плятформенных грузавых вагонаў."
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1850_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1890_DESCRIPTION"
 msgstr ""
-"Wczesne wagony tego typu były produkowane bez hamulców. Dopiero w "
-"późniejszej serii w całym kraju wprowadzono hamulce pneumatyczne."
+"Раньнія вагоны гэтага тыпу вырабляліся без тармазоў. Толькі ў пазьнейшых "
+"сэрыях па ўсёй краіне былі ўведзены пнэўматычныя тармазы."
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1890_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1950_DESCRIPTION"
 msgstr ""
-"Większość platform z bocznymi słupkami zbudowanych od 1950 r. ma dwie osie i "
-"została wyprodukowana w dużych ilościach. Dopiero później opracowano wiele "
-"nowych obszarów zastosowań specjalnych platform."
+"Большасьць плятформаў з бакавымі слупкамі, пабудаваных з 1950 г., маюць "
+"дзьве восі й былі выпушчаныя ў вялікай колькасьці. Толькі пазьней было "
+"распрацавана шмат новых абласьцей ужываньня для спэцыяльных плятформаў."
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1950_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_RUSSO_BALT_3RD_DESCRIPTION"
 msgstr ""
-"Ten 3-osiowy wagon pasażerski został zbudowany w dużych ilościach i był "
-"używany do lat 50. XX wieku."
+"Гэты 3-восевы пасажырскі вагон быў пабудаваны ў вялікай колькасьці й "
+"ужываўся да 1950-х гадоў."
 
 msgid "VEHICLE_WAGGON_RUSSO_BALT_3RD_NAME"
-msgstr "Russo-Bałt"
+msgstr "Расей-Балт"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1850_DESCRIPTION"
 msgstr ""
-"Platforma z drewnianym pokładem i słupkami po obu stronach. Wykorzystywana "
-"głównie do ładunków, które są zbyt duże, aby załadować je do wagonów "
-"zamkniętych."
+"Плятформа з драўлянай палубай і слупкамі па абодвух баках. Выкарыстоўваецца "
+"галоўным чынам для грузаў, якія занадта вялікія, каб загрузіць іх у закрытыя "
+"вагоны."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1850_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1895_DESCRIPTION"
 msgstr ""
-"Platforma z belką środkową, przeznaczona do transportu długich i "
-"nieporęcznych towarów. Wsporniki na spodzie zapewniają dodatkową nośność."
+"Плятформа з цэнтральнай бэлькай, прызначаная для транспарту доўгіх і "
+"нязручных тавараў. Апоры ўнізе забясьпечваюць дадатковую грузападымальнасьць."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1895_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1952_DESCRIPTION"
 msgstr ""
-"Platforma z belką środkową i czterema osiami. Ten rodzaj wagonu jest również "
-"nazywany „szkieletem”, ponieważ nie ma podłogi, a jedynie ramiona boczne."
+"Плятформа з цэнтральнай бэлькай і чатырма восямі. Гэты тып вагона таксама "
+"называецца «шкілетам», бо ня мае падлогі, а толькі бакавыя апоры."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1952_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_2000_DESCRIPTION"
 msgstr ""
-"Ta nowoczesna platforma z bocznymi słupkami umożliwia przewóz różnych "
-"towarów. Załadunek jest możliwy z góry, z boku, a także z przodu dzięki "
-"klapom."
+"Гэта сучасная плятформа з бакавымі слупкамі дазваляе перавозіць розныя "
+"тавары. Пагрузка магчымая зьверху, збоку, а таксама зь пярэдняга боку "
+"дзякуючы адкідным кляпам."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_2000_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1850_DESCRIPTION"
 msgstr ""
-"W tym wczesnym wagonie towarowym zarówno platforma, jak i sama rama są "
-"wykonane z drewna. Stalowe dźwigary wykorzystano dopiero później."
+"У гэтым раньнім грузавым вагоне й плятформа, і рама былі зробленыя з дрэва. "
+"Сталёвыя бэлькі пачалі выкарыстоўвацца толькі пазьней."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1850_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1900_DESCRIPTION"
 msgstr ""
-"Ta kursująca na trasie Sankt Petersburg – Moskwa platforma z bocznymi "
-"słupkami została wyposażona w stelaż, który zapobiegał zsuwaniu się towarów "
-"na boki."
+"Гэтая плятформа з бакавымі слупкамі, якая курсавала на маршруце Санкт-"
+"Пецярбург — Масква, была абсталяваная каркасам, што прадухіляў сьлізганьне "
+"тавараў у бок."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1900_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1950_DESCRIPTION"
 msgstr ""
-"Ta 4-osiowa platforma z bocznymi słupkami umożliwia niezależny demontaż ram "
-"bocznych i ścian końcowych."
+"Гэтая 4-восевая плятформа з бакавымі слупкамі дазваляе незалежны дэмантаж "
+"бакавых рам і кантавых сьцен."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1950_NAME"
-msgstr "Platforma z bocznymi słupkami"
+msgstr "Плятформа з бакавымі слупкамі"
 
 msgid "VEHICLE_WAGGON_STREAMLINED_SANTA_FE_DESCRIPTION"
 msgstr ""
-"Ten rodzaj wagonu został wykonany z aluminium z falistymi ścianami bocznymi, "
-"co było pierwszą próbą zmniejszenia wagi wagonów pasażerskich."
+"Гэты тып вагона быў зроблены з алюмінію з рабрыстымі бакавымі сьценамі, што "
+"было першай спробай зьменьшыць вагу пасажырскіх вагонаў."
 
 msgid "VEHICLE_WAGGON_STREAMLINED_SANTA_FE_NAME"
-msgstr "Opływowy wagon z Nowego Meksyku"
+msgstr "Абцякальны вагон з Новай Мэксыкі"
 
 msgid "VEHICLE_WAGGON_SUBURBAN_2ND_DESCRIPTION"
 msgstr ""
-"Ten wagon pasażerski z początku XX wieku jest jednym z pierwszych modeli z "
-"wózkami. Ma również toaletę."
+"Гэты пасажырскі вагон пачатку ХХ стагодзьдзя зьяўляецца адным зь першых "
+"мадэляў з брычкамі. Ён таксама абсталяваны прыбіральняй."
 
 msgid "VEHICLE_WAGGON_SUBURBAN_2ND_NAME"
-msgstr "Podmiejski"
+msgstr "Прадмесьцевы"
 
 msgid "VEHICLE_WAGGON_TANKCAR_1860_DESCRIPTION"
 msgstr ""
-"Koleje musiały opracować ten nowy rodzaj wagonu do transportu cieczy w "
-"latach 60. XIX wieku, gdy odkryto ropę naftową."
+"Чыгуначныя кампаніі мусілі былі распрацаваць гэты новы тып вагона для "
+"транспартаваньня вадкасьцяў у 1860-х гадах, калі была адкрытая нафта."
 
 msgid "VEHICLE_WAGGON_TANKCAR_1860_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TANKCAR_1899_DESCRIPTION"
 msgstr ""
-"Cysterna może przewozić surowce płynne lub gazowe. Dopiero w 1900 roku "
-"wprowadzono pewne normy bezpieczeństwa, chociaż tysiące takich wagonów były "
-"już w użyciu."
+"Цыстэрна можа перавозіць вадкія або газападобныя сыравіны. Толькі ў 1900 "
+"годзе былі ўведзеныя пэўныя нормы бясьпекі, хоць тысячы такіх вагонаў ужо "
+"былі ва ўжываньні."
 
 msgid "VEHICLE_WAGGON_TANKCAR_1899_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TANKCAR_1948_DESCRIPTION"
 msgstr ""
-"Konkurencyjne metody transportu w postaci rurociągów i ciężarówek w latach "
-"50. XX wieku doprowadziły do budowy większych cystern. Ta czteroosiowa "
-"wersja została zaprojektowana do szczególnie dużych obciążeń."
+"Канкурэнтныя мэтады транспарту ў выглядзе трубаправодаў і грузавікоў у 1950-"
+"х гадах прывялі да будаўніцтва больш буйных цыстэрн. Гэтая чатырохвосевая "
+"вэрсія была распрацаваная для асабліва вялікіх нагрузак."
 
 msgid "VEHICLE_WAGGON_TANKCAR_1948_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TANKCAR_2000_DESCRIPTION"
 msgstr ""
-"Ta nowoczesna czteroosiowa cysterna może być wyposażona w rozmaite "
-"urządzenia do załadunku i rozładunku, aby zaspokajać różne potrzeby "
-"przedsiębiorstw kolejowych."
+"Гэтая сучасная 4-восевая цыстэрна можа быць абсталяваная рознымі "
+"прыстасаваньнямі для пагрузкі q выгрузкі, каб задавальняць розныя патрэбы "
+"чыгуначных прадпрыемстваў."
 
 msgid "VEHICLE_WAGGON_TANKCAR_2000_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1850_DESCRIPTION"
 msgstr ""
-"Pierwsze cysterny to po prostu samochody z platformą, na której montowano "
-"zbiornik."
+"Першымі цыстэрнамі былі проста аўтамабілі з плятформай, на якой усталёўваўся "
+"рэзэрвуар."
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1850_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1900_DESCRIPTION"
 msgstr ""
-"W przeciwieństwie do niektórych wcześniejszych cystern, model ten został "
-"zbudowany w Rosji na początku XX wieku i był wykorzystywany głównie do "
-"transportu ropy naftowej."
+"У адрозьненьне ад некаторых ранейшых цыстэрн, гэты мадэль была пабудаваная ў "
+"Расеі на пачатку ХХ стагодзьдзя q выкарыстоўвалася галоўным чынам для "
+"транспартаваньня нафты."
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1900_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1950_DESCRIPTION"
 msgstr ""
-"Ta czteroosiowa cysterna została zbudowana w różnych wersjach do transportu "
-"różnych cieczy."
+"Гэтая 4-восевая цыстэрна была пабудавана ў розных вэрсыях для "
+"транспартаваньня розных вадкасьцяў."
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1950_NAME"
-msgstr "Cysterna"
+msgstr "Цыстэрна"
 
 msgid "VEHICLE_WAGGON_TVZ_61_4447_DESCRIPTION"
 msgstr ""
-"Wagony tej serii są przeznaczone na długie trasy i są również dostępne w "
-"wersji z kuszetkami lub w formie wagonów sypialnych."
+"Вагоны гэтай сэрыі прызначаныя для доўгіх маршрутаў і таксама даступныя ў "
+"вэрсыях з канапамі для адпачынку альбо ў выглядзе спальніх вагонаў."
 
 msgid "VEHICLE_WAGGON_TVZ_61_4447_NAME"
 msgstr "TVZ 61 4447"
 
 msgid "VEHICLE_WAGGON_VERBANDSWAGEN_V2_DESCRIPTION"
 msgstr ""
-"Wagony towarowe budowane na początku XX wieku były nazywane wagonami "
-"towarowymi Verbandsbauart. Nazwa nawiązuje do wysiłków zmierzających do "
-"ujednolicenia konstrukcji wagonów towarowych."
+"Грузавыя вагоны, пабудаваныя на пачатку ХХ стагодзьдзя, называліся грузавымі "
+"вагонамі Verbandsbauart. Назва адлюстроўвае намаганьні па ўніфікацыі "
+"канструкцыі грузавых вагонаў."
 
 msgid "VEHICLE_WAGGON_VERBANDSWAGEN_V2_NAME"
-msgstr "Wagon towarowy"
+msgstr "Грузавы вагон"
 
 msgid "VEHICLE_WAGGON_WAGEN_BAYRISCH_1865_DESCRIPTION"
-msgstr "Dwuosiowy wagon pasażerski z otwartymi platformami po obu stronach."
+msgstr "Двухвосевы пасажырскі вагон з адкрытымі плятформамі з абодвух бакоў."
 
 msgid "VEHICLE_WAGGON_WAGEN_BAYRISCH_1865_NAME"
-msgstr "Bawarski wagon pasażerski"
+msgstr "Баварскі пасажырскі вагон"
 
 msgid "Vehicle manager"
-msgstr "Menedżer pojazdów"
+msgstr "Наладчык траспарту"
 
 msgid "Vehicle statistics"
-msgstr "Statystyki pojazdu"
+msgstr "Статыстыкі транспарту"
 
 msgid "Vehicle unavailable at this time"
-msgstr "Pojazd obecnie niedostępny"
+msgstr "Зараз транспарт недаступны"
 
 msgid "Vehicles"
-msgstr "Pojazdy"
+msgstr "Транспарт"
 
 msgid "Very Big"
-msgstr "Bardzo duże"
+msgstr "Вельмі вялікі"
 
 msgid "Very high"
-msgstr "Bardzo dużo"
+msgstr "Вельмі шмат"
 
 msgid "Very low"
-msgstr "Bardzo mało"
+msgstr "Вельмі мала"
 
 msgid "Very often"
-msgstr "Bardzo często"
+msgstr "Вельмі часта"
 
 msgid "Very small"
-msgstr "Bardzo małe"
+msgstr "Вельмі малы"
 
 msgid "Voice-over"
-msgstr "Narracja"
+msgstr "Агучваньне"
 
 msgid "Wandering"
-msgstr "Wędrowanie"
+msgstr "Вандро́ўніцтва"
 
 msgid "War material"
-msgstr "Materiały wojenne"
+msgstr "Ваенныя матэрыялы"
 
 msgid "Waste water"
-msgstr "Ścieki"
+msgstr "Сьцёкі"
 
 msgid "Water"
-msgstr "Woda"
+msgstr "Вада"
 
 msgid "Water Dirty"
-msgstr "Brudna woda"
+msgstr "Брудная вада"
 
 msgid "Waterway"
-msgstr "Droga wodna"
+msgstr "Водная дарога"
 
 msgid "Waterway with a speed limit of %2%."
-msgstr "Droga wodna z ograniczeniem prędkości do %2%."
+msgstr "Водная дарога з абмежаваньнем хуткасьці да %2%."
 
 msgid "Waypoint"
-msgstr "Punkt kontrolny"
+msgstr "Маршрутны пункт"
 
 msgid "Web Developer"
-msgstr "Deweloper sieciowy"
+msgstr "Сеткавы распрацоўшчык"
 
 msgid "Web Project Manager"
-msgstr "Menedżer projektów sieciowych"
+msgstr "Сеткавы распарадчык праэкта"
 
 msgid "Web Technical Lead"
-msgstr "Kierownik techniczny ds. sieciowych"
+msgstr "Сеткавых тэхнічны кіраўнік"
 
 msgid "Welcome"
-msgstr "Witaj"
+msgstr "Вітаем"
 
 msgid "Wheat"
 msgstr "Пшаніца"
 
 msgid "When disabled, the industry will not require any cargo input"
 msgstr ""
-"Gdy wyłączone, zakład przemysłowy nie będzie wymagał dostawy żadnych towarów"
+"Калі адключана, прамысловая ўстанова ня будзе патрабаваць паставак ніякіх "
+"тавараў"
 
 msgid "When disabled, the industry will not up-/downgrade"
-msgstr ""
-"Gdy wyłączone, zakład przemysłowy nie zostanie ulepszony/nie ulegnie "
-"pogorszeniu"
+msgstr "Калі адключана, прамысловая ўстанова ня будзе паляпшацца/пагаршацца"
 
 msgid "Whiskey"
-msgstr "Whiskey"
+msgstr "Віскі"
 
 msgid "Wolf"
 msgstr "Воўк"
@@ -17570,13 +17576,13 @@ msgid "Yes"
 msgstr "Так"
 
 msgid "You didn't see anything..."
-msgstr "Przywidziało ci się…"
+msgstr "Табе прывідзелася..."
 
 msgid "You need a 2nd runway."
-msgstr "Potrzebujesz drugiego pasa startowego."
+msgstr "Табе патрэбная другая ЎПП."
 
 msgid "degree"
-msgstr "st."
+msgstr "градус"
 
 msgctxt "difficulty"
 msgid "Easy"
@@ -17596,55 +17602,55 @@ msgstr "Зацяжкі"
 
 msgctxt "map-industry-density"
 msgid "Disabled"
-msgstr "Wyłączone"
+msgstr "Выключана"
 
 msgctxt "map-industry-density"
 msgid "High"
-msgstr "Dużo"
+msgstr "Шмат"
 
 msgctxt "map-industry-density"
 msgid "Low"
-msgstr "Mało"
+msgstr "Мала"
 
 msgctxt "map-industry-density"
 msgid "Medium"
-msgstr "Średnio"
+msgstr "Сярэдне"
 
 msgctxt "map-industry-density"
 msgid "Very high"
-msgstr "Bardzo dużo"
+msgstr "Зашмат"
 
 msgctxt "map-size"
 msgid "Large"
-msgstr "Duże"
+msgstr "Вялікая"
 
 msgctxt "map-size"
 msgid "Medium"
-msgstr "Średnia"
+msgstr "Сярэдне"
 
 msgctxt "map-size"
 msgid "Small"
-msgstr "Małe"
+msgstr "Малая"
 
 msgctxt "map-size"
 msgid "Very Large"
-msgstr "Bardzo duża"
+msgstr "Завялікая"
 
 msgctxt "map-town-density"
 msgid "High"
-msgstr "Dużo"
+msgstr "Шмат"
 
 msgctxt "map-town-density"
 msgid "Low"
-msgstr "Mało"
+msgstr "Мала"
 
 msgctxt "map-town-density"
 msgid "Medium"
-msgstr "Średnio"
+msgstr "Сярэдне"
 
 msgctxt "map-town-density"
 msgid "Very high"
-msgstr "Bardzo dużo"
+msgstr "Зашмат"
 
 msgid "meters"
 msgstr "м"
@@ -17653,10 +17659,10 @@ msgid "no"
 msgstr "не"
 
 msgid "not allowed to build or bulldoze here"
-msgstr "nie możesz tutaj niczego budować ani burzyć"
+msgstr "тут нельга нічога будаваць ані бурыць"
 
 msgid "not allowed to do this right now"
-msgstr "obecnie niedozwolone"
+msgstr "зараз недазволена"
 
 msgid "off"
 msgstr "выкл."
@@ -17665,16 +17671,16 @@ msgid "on"
 msgstr "укл."
 
 msgid "stone acting as a stop"
-msgstr "kamień służący za przystanek"
+msgstr "камень служыць за прыпынак"
 
 msgid "stone bus stop"
-msgstr "kamienny przystanek"
+msgstr "каменны прыпынак"
 
 msgid "track signals need to be placed in highlighted area"
-msgstr "semafory należy umieścić w podświetlonym obszarze"
+msgstr "сыгналы неабходна разьмясьціць у падсьвечанай вобласьці"
 
 msgid "unused"
-msgstr "nieużywane"
+msgstr "неўжываны"
 
 msgid "up to 4 cargo types"
 msgstr "макс. 4 тыпаў грузаў"

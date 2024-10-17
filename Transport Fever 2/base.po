@@ -1143,10 +1143,10 @@ msgid "Company"
 msgstr "Таварыства"
 
 msgid "Company finances"
-msgstr "Каштарыс таварыству"
+msgstr "Каштарыс кампаніі"
 
 msgid "Company score"
-msgstr "Вынік таварыству"
+msgstr "Вынік кампаніі"
 
 msgid "Complete campaign \"%1%\" to unlock"
 msgstr "Каб адблякаваць, завяршыце кампанію „%1%”"
