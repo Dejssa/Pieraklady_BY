@@ -15,7 +15,7 @@ function data()
             },
         },
         options = {
-            nameList = { { "belarus", _("Belarusian") } },
+            nameList = { { "belarus", _("Беларускі") } },
         },
         runFn = function(settings)
         end
