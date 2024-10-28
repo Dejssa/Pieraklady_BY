@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-10-14 17:21+0300\n"
+"PO-Revision-Date: 2024-10-28 11:20+0300\n"
 "Last-Translator: Alaksiej (Dejssa)\n"
 "Language-Team: Dejssa\n"
 "Language: be\n"
@@ -153,25 +153,25 @@ msgid "%d for having a very long vehicle"
 msgstr "%d за доўгі транспарт"
 
 msgid "%d for having transported at least 100000 passengers"
-msgstr "%d для транспарціроўку мінімум 100 000 пасажыраў"
+msgstr "%d пунтаў за транспарціроўку мінімум 100 000 пасажыраў"
 
 msgid "%d for having transported at least 100000 units of cargo"
-msgstr "%d для транспарціроўкі мінімум 100 000 адзінак тавару"
+msgstr "%d пунтаў за транспарціроўку мінімум 100 000 адзінак тавару"
 
 msgid "%d for high-speed rail network"
-msgstr "%d за сетку высакахуткаснай чыгункі"
+msgstr "%d пунтаў за сетку высакахуткаснай чыгункі"
 
 msgid "%d for rail network bridges"
-msgstr "%d за масты чыгуначнай сеткі"
+msgstr "%d пунтаў за масты чыгуначнай сеткі"
 
 msgid "%d for rail network electrification"
-msgstr "%d за электрыфікацыю чыгуначнай сеткі"
+msgstr "%d пунтаў за электрыфікацыю чыгуначнай сеткі"
 
 msgid "%d for rail network length"
-msgstr "%d за даўжыню чыгуначнай сеткі"
+msgstr "%d пунтаў за даўжыню чыгуначнай сеткі"
 
 msgid "%d for rail network tunnels"
-msgstr "%d за тунэлі чыгуначнай сеткі"
+msgstr "%d пунтаў за тунэлі чыгуначнай сеткі"
 
 msgid "%d point(s) for company value"
 msgstr "%d пунктаў за кошт кампаніі"
@@ -2548,7 +2548,7 @@ msgid "Level"
 msgstr "Узровень"
 
 msgid "Liabilities"
-msgstr "Запазы́чанасьці"
+msgstr "Запазычанасьці"
 
 msgid "Lifespan"
 msgstr "Трываласьць"
@@ -2884,7 +2884,7 @@ msgid "Mixed trees"
 msgstr "Зьмешаныя дрэвы"
 
 msgid "Mod Browser"
-msgstr "Праглядальнік мадыфікацыяў"
+msgstr "Мадыфікаціі"
 
 msgid "Mod Details"
 msgstr "Дэталі мадыфікацыі"
