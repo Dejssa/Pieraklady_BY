@@ -9,7 +9,7 @@
 ### Гульні і (можа калі небудзь) аплікацыі
 
 - Surviving Mars (35,79%)
-- Transport Fever 2 (20%)
+- Transport Fever 2 (~50%)
 
 #### Surviving Mars
 
@@ -20,4 +20,4 @@
 #### Transport Fever 2
 
 - Base (100%)
-- Res (0%)
+- Res (~50%)
